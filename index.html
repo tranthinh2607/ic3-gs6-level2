@@ -24,9 +24,34 @@
             <p>Hãy chọn một chủ đề và bài kiểm tra dưới đây để bắt đầu. Chúc bạn hoàn thành bài thật tốt nhé!</p>
         </section>
 
+        <section class="final-exam-section" style="text-align: center; margin-bottom: 40px;">
+            <button class="btn btn-danger btn-large" style="background: linear-gradient(135deg, #e74c3c, #c0392b); color: white; padding: 20px 40px; font-size: 24px; border-radius: 50px; box-shadow: 0 10px 20px rgba(231, 76, 60, 0.4); animation: pulse 2s infinite;" onclick="showModeModal('final_exam')">
+                🔥 BÀI KIỂM TRA TỔNG HỢP (40 CÂU) 🔥
+            </button>
+        </section>
+
         <section id="topic-list" class="map-container">
             <!-- Topics will be loaded here dynamically -->
         </section>
+
+        <!-- Mode Selection Modal -->
+        <div id="mode-modal" class="modal-overlay" style="display: none;">
+            <div class="modal-content">
+                <h2>Chọn Chế Độ Làm Bài</h2>
+                <p id="modal-test-name">Tên Bài Test</p>
+                <div class="mode-options">
+                    <div class="mode-card practice-mode" onclick="startQuizMode('practice')">
+                        <h3>Làm Bài Ôn Tập 📖</h3>
+                        <p>Thoải mái thời gian, có linh vật cổ vũ, thích hợp để học và ghi nhớ.</p>
+                    </div>
+                    <div class="mode-card exam-mode" onclick="startQuizMode('exam')">
+                        <h3>Làm Bài Kiểm Tra ⏱️</h3>
+                        <p>Có tính thời gian nghiêm ngặt, trải nghiệm như thi thật!</p>
+                    </div>
+                </div>
+                <button class="btn btn-secondary" style="margin-top:20px;" onclick="closeModeModal()">Đóng</button>
+            </div>
+        </div>
     </main>
 
     <footer class="app-footer">
