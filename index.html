@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IC3 GS6 Level 2 - Ôn Tập Kiến Thức</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container">
+            <h1>🌟 IC3 GS6 LEVEL 2 - HỌC VUI, THI TỐT 🌟</h1>
+            <p>Hệ thống ôn luyện dành cho học sinh, phụ huynh và giáo viên</p>
+            <div class="coin-counter" title="Số sao của bạn">
+                <span class="coin-icon">⭐</span> <span id="header-coin-amount">0</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-main container">
+        <section class="welcome-section">
+            <h2>Chào mừng bạn đến với khóa ôn luyện!</h2>
+            <p>Hãy chọn một chủ đề và bài kiểm tra dưới đây để bắt đầu. Chúc bạn hoàn thành bài thật tốt nhé!</p>
+        </section>
+
+        <section id="topic-list" class="map-container">
+            <!-- Topics will be loaded here dynamically -->
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <p>&copy; 2026 IC3 Kids Learning Platform. All rights reserved.</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            renderTopicList();
+        });
+    </script>
+</body>
+</html>

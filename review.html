@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xem Lại Đáp Án - IC3 GS6 Level 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container review-header">
+            <button class="btn btn-secondary back-btn" onclick="window.location.href='result.html'">← Quay Lại Kết Quả</button>
+            <h1>👀 XEM LẠI BÀI LÀM</h1>
+            <div class="coin-counter" title="Số sao của bạn">
+                <span class="coin-icon">⭐</span> <span id="header-coin-amount">0</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-main container review-main">
+        <div id="review-container">
+            <!-- Review items will be loaded here -->
+        </div>
+        
+        <div class="review-actions">
+             <button class="btn btn-primary btn-large" onclick="window.location.href='index.html'">Trang Chủ</button>
+        </div>
+    </main>
+
+    <footer class="app-footer">
+        <p>&copy; 2026 IC3 Kids Learning Platform</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            renderReview();
+        });
+    </script>
+</body>
+</html>

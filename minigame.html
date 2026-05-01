@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minigame Xả Hơi - IC3 GS6 Level 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        body { background: #1a1a2e; color: white; text-align: center; overflow: hidden; }
+        .star {
+            position: absolute;
+            font-size: 30px;
+            cursor: pointer;
+            user-select: none;
+            transition: transform 0.1s;
+        }
+        .star:active { transform: scale(1.5); }
+        #score-board {
+            position: fixed; top: 20px; right: 20px;
+            font-size: 24px; font-weight: bold;
+            background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 20px;
+        }
+        .timer { position: fixed; top: 20px; left: 20px; font-size: 24px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="timer">⏳ <span id="time-left">30</span>s</div>
+    <div id="score-board">⭐ <span id="score">0</span></div>
+    
+    <h1 style="margin-top: 100px;">BẮT SAO KIẾM XU!</h1>
+    <p>Hãy bấm vào các ngôi sao rơi xuống để kiếm thêm xu nhé!</p>
+    
+    <button class="btn btn-primary btn-large" id="start-btn" onclick="startGame()" style="margin-top:20px; z-index: 100; position:relative;">Bắt Đầu Chơi</button>
+
+    <script>
+        let score = 0;
+        let timeLeft = 30;
+        let gameInterval;
+        let spawnInterval;
+
+        function startGame() {
+            document.getElementById('start-btn').style.display = 'none';
+            score = 0;
+            timeLeft = 30;
+            document.getElementById('score').textContent = score;
+            document.getElementById('time-left').textContent = timeLeft;
+            
+            spawnInterval = setInterval(spawnStar, 600);
+            gameInterval = setInterval(() => {
+                timeLeft--;
+                document.getElementById('time-left').textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    endGame();
+                }
+            }, 1000);
+        }
+
+        function spawnStar() {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.textContent = '⭐';
+            star.style.left = Math.random() * (window.innerWidth - 50) + 'px';
+            star.style.top = '-50px';
+            document.body.appendChild(star);
+
+            let posY = -50;
+            const fallSpeed = Math.random() * 3 + 2;
+            
+            const fallInterval = setInterval(() => {
+                posY += fallSpeed;
+                star.style.top = posY + 'px';
+                if (posY > window.innerHeight) {
+                    clearInterval(fallInterval);
+                    if (document.body.contains(star)) document.body.removeChild(star);
+                }
+            }, 20);
+
+            star.onmousedown = () => {
+                score += 5;
+                document.getElementById('score').textContent = score;
+                clearInterval(fallInterval);
+                star.textContent = '✨';
+                setTimeout(() => {
+                    if (document.body.contains(star)) document.body.removeChild(star);
+                }, 100);
+            };
+        }
+
+        function endGame() {
+            clearInterval(gameInterval);
+            clearInterval(spawnInterval);
+            const currentCoins = parseInt(localStorage.getItem('totalCoins') || '0');
+            localStorage.setItem('totalCoins', currentCoins + score);
+            
+            document.body.innerHTML = `
+                <div style="margin-top: 20vh;">
+                    <h1>HẾT GIỜ!</h1>
+                    <h2>Bạn đã kiếm được ${score} xu!</h2>
+                    <br><br>
+                    <button class="btn btn-primary btn-large" onclick="window.location.href='index.html'">Trở Về Bản Đồ</button>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

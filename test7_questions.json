@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Bạn hãy sắp xếp các bước sử dụng tính năng Help trong Word để nhận trợ giúp về cách sử dụng Styles.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nhấp chọn Help&nbsp;",
+        "choices": [
+          "Bước 1&nbsp;",
+          "Bước 3&nbsp;",
+          "Bước 4&nbsp;",
+          "Bước 2&nbsp;"
+        ]
+      },
+      {
+        "text": "Nhấp chọn vào thẻ Help&nbsp;",
+        "choices": [
+          "Bước 1&nbsp;",
+          "Bước 3&nbsp;",
+          "Bước 4&nbsp;",
+          "Bước 2&nbsp;"
+        ]
+      },
+      {
+        "text": "Nhấn phím Enter&nbsp;",
+        "choices": [
+          "Bước 1&nbsp;",
+          "Bước 3&nbsp;",
+          "Bước 4&nbsp;",
+          "Bước 2&nbsp;"
+        ]
+      },
+      {
+        "text": "Gõ: styles&nbsp;",
+        "choices": [
+          "Bước 1&nbsp;",
+          "Bước 3&nbsp;",
+          "Bước 4&nbsp;",
+          "Bước 2&nbsp;"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Chọn tùy chọn chỉnh sửa hình ảnh bên phải phù hợp với mục đích sử dụng bên trái.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Sửa lỗi trên hình ảnh&nbsp;",
+        "choices": [
+          "Crop&nbsp;",
+          "Filter&nbsp;",
+          "Spot&nbsp;"
+        ]
+      },
+      {
+        "text": "Thay đổi độ mờ trên hình ảnh&nbsp;",
+        "choices": [
+          "Crop&nbsp;",
+          "Filter&nbsp;",
+          "Spot&nbsp;"
+        ]
+      },
+      {
+        "text": "Giảm kích thước của hình ảnh&nbsp;",
+        "choices": [
+          "Crop&nbsp;",
+          "Filter&nbsp;",
+          "Spot&nbsp;"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Ghép từng thuật ngữ trong bài trình bày với định nghĩa tương ứng. Để trả lời, hãy chọn thuật ngữ bên phải sao cho phù hợp với nội dung bên trái.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Hiệu ứng được sử dụng để chuyển tiếp trang trình bày&nbsp;",
+        "choices": [
+          "Mẫu (Template)&nbsp;",
+          "Chuyển tiếp (Transitions)&nbsp;",
+          "Hoạt hình (Animations)&nbsp;",
+          "Slide Master&nbsp;"
+        ]
+      },
+      {
+        "text": "Tập tin chứa các kiểu tạo sẵn&nbsp;",
+        "choices": [
+          "Mẫu (Template)&nbsp;",
+          "Chuyển tiếp (Transitions)&nbsp;",
+          "Hoạt hình (Animations)&nbsp;",
+          "Slide Master&nbsp;"
+        ]
+      },
+      {
+        "text": "Hiệu ứng hình ảnh có chức năng di chuyển trên các trang trình bày&nbsp;",
+        "choices": [
+          "Mẫu (Template)&nbsp;",
+          "Chuyển tiếp (Transitions)&nbsp;",
+          "Hoạt hình (Animations)&nbsp;",
+          "Slide Master&nbsp;"
+        ]
+      },
+      {
+        "text": "Trang trình bày kiểm soát thiết kế của các bạn&nbsp;",
+        "choices": [
+          "Mẫu (Template)&nbsp;",
+          "Chuyển tiếp (Transitions)&nbsp;",
+          "Hoạt hình (Animations)&nbsp;",
+          "Slide Master&nbsp;"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Tính năng theo dõi thay đổi (Track Changes) trong Microsoft Word là một ví dụ về kiểu chỉnh sửa nào?&nbsp;",
+    "type": "single",
+    "options": [
+      "Không đồng bộ (Asynchronous)&nbsp;",
+      "So le (Staggered)&nbsp;",
+      "Đồng bộ (Synchronous)&nbsp;",
+      "Đồng thời (Simultaneous)&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Tính năng Compare trong Microsoft Word có thể được sử dụng để so sánh nhiều phiên bản của cùng một tài liệu.&nbsp;",
+    "type": "single",
+    "options": [
+      "Sai&nbsp;",
+      "Đúng&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Video cần được giảm kích thước để phù hợp với một không gian cụ thể. Nên làm gì với Video để hoàn thành nhiệm vụ này?&nbsp;",
+    "type": "single",
+    "options": [
+      "Crop&nbsp;",
+      "Splice&nbsp;",
+      "Split&nbsp;",
+      "Trim&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Nếu mật khẩu được sử dụng để bảo vệ tài liệu Microsoft Word bị mất, khóa giải mã có thể khôi phục mật khẩu.&nbsp;",
+    "type": "single",
+    "options": [
+      "Đúng&nbsp;",
+      "Sai&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Trong PowerPoint, loại trang chiếu nào lưu trữ bố cục, màu sắc và Logo của trang trình chiếu được sử dụng trong bài trình chiếu?&nbsp;",
+    "type": "single",
+    "options": [
+      "Blueprint&nbsp;",
+      "Master&nbsp;",
+      "Template&nbsp;",
+      "Storyboard&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Trong Microsoft Word, tính năng Feedback được tìm thấy trên thẻ (Tab) nào?&nbsp;",
+    "type": "single",
+    "options": [
+      "File&nbsp;",
+      "Help&nbsp;",
+      "Insert&nbsp;",
+      "Home&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Người dùng mở tài liệu Word và nhận thấy rằng một số thay đổi đã được thực hiện và những thay đổi đó sẽ hiển thị bằng màu đỏ. Tính năng nào có thể đã được kích hoạt?&nbsp;",
+    "type": "single",
+    "options": [
+      "Comments&nbsp;",
+      "Balloons&nbsp;",
+      "Track Changes&nbsp;",
+      "Review&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Tùy chọn chỉnh sửa video nào làm giảm thời gian tổng thể của video?&nbsp;",
+    "type": "single",
+    "options": [
+      "Crop&nbsp;",
+      "Split&nbsp;",
+      "Zoom&nbsp;",
+      "Trim&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Bạn tạo và điền vào tài liệu một trang, sau đó thêm một trang trống vào tài liệu đó. Bạn cần sao chép tất cả nội dung của trang đầu tiên lên trang thứ hai. Bạn nên sử dụng ba phím tắt nào? (Chọn 3)&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Ctrl+P (Cmd+P)&nbsp;&nbsp;",
+      "Ctrl+N (Cmd+N)&nbsp;&nbsp;",
+      "Ctrl+A (Cmd+A)&nbsp;",
+      "Ctrl+C (Cmd+C)&nbsp;&nbsp;",
+      "Ctrl+V (Cmd+V)&nbsp;&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Một công ty muốn đảm bảo rằng mọi bài trình chiếu được sử dụng có cùng phông chữ, màu sắc và căn chỉnh văn bản. Em hãy cho biết, tùy chọn nào sau đây công ty nên lựa chọn xây dựng?&nbsp;",
+    "type": "single",
+    "options": [
+      "Boilerplate&nbsp;",
+      "Master file&nbsp;",
+      "Storyboard&nbsp;",
+      "Template&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Phát biểu nào là đúng khi lập phiên bản và khôi phục tài liệu? (Chọn 2)&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Tính năng AutoRecover có thể thay thế cho việc lưu công việc&nbsp;&nbsp;",
+      "Tính năng Compare có thể được sử dụng để so sánh hai phiên bản của cùng một tập tin&nbsp;",
+      "Tính năng AutoRecover lưu được đặt thành 10 phút trong thời gian dài&nbsp;",
+      "Các phiên bản trước của tập tin có thể được khôi phục&nbsp;&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Phát biểu nào là đúng về nối Video khi chỉnh sửa Video? (Chọn 2)&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Các Clip khác được di chuyển và không bị ghi đè.&nbsp;",
+      "Một đoạn Video được chèn vào.&nbsp;",
+      "Các Clip khác được di chuyển và ghi đè.&nbsp;",
+      "Một đoạn Video bị cắt.&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Phát biểu nào là đúng về hiệu ứng Transition trong PowerPoint? (Chọn 2)&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Một loại transition được phép cho mỗi bài trình chiếu&nbsp;",
+      "Transition diễn ra trong khi phát một trang trình chiếu&nbsp;&nbsp;",
+      "Transition có thể chứa âm thanh&nbsp;&nbsp;",
+      "Thời gian của transition có thể được kiểm soát&nbsp;&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Phương pháp nào có thể được sử dụng để đổi tên trang tính (Sheet) trong Excel? (Chọn 2)&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Nhấp đúp chuột vào tab trang tính&nbsp;",
+      "Thông qua tab Data trên Ribbon&nbsp;",
+      "Thông qua tab Page Layout trên Ribbon&nbsp;",
+      "Chọn và giữ (hoặc bấm chuột phải) vào tab trang tính&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 18,
+    "question": "Một nhà phân tích dữ liệu đang chuẩn bị một tập tin Excel và đã nhập một tháng vào một ô. Nhà phân tích có thể sử dụng tính năng nào để thêm tháng mà không cần nhập chúng?&nbsp;",
+    "type": "single",
+    "options": [
+      "AutoComplete&nbsp;",
+      "AutoFill&nbsp;",
+      "AutoGenerate&nbsp;",
+      "AutoCorrect&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Bạn hãy cho biết, khi tài liệu Word được bảo vệ bằng mật khẩu, thì điều gì sau đây được áp dụng cho tập tin đó?&nbsp;",
+    "type": "single",
+    "options": [
+      "Tài liệu được đặt thuộc tính chỉ đọc - ghi (Read - Write)&nbsp;",
+      "Tài liệu được nén lại&nbsp;",
+      "Tài liệu được đặt thuộc tính chỉ đọc (Read - Only)&nbsp;",
+      "Tài liệu bị mã hoá&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Trong PowerPoint, tùy chọn nào được sử dụng để thêm hiệu ứng khi bản trình chiếu chuyển từ trang chiếu này sang trang chiếu tiếp theo?&nbsp;",
+    "type": "single",
+    "options": [
+      "Transition&nbsp;",
+      "Effects&nbsp;",
+      "Animation&nbsp;",
+      "Slide Show&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Bạn hãy cho biết, phát biểu sau đây là đúng hay sai: \"Macro được sử dụng để tự động hóa các quy trình trong Microsoft Word.\"&nbsp;",
+    "type": "single",
+    "options": [
+      "Đúng&nbsp;&nbsp;",
+      "Sai&nbsp;&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Thẻ (Tab) nào trong PowerPoint được sử dụng khi một người muốn xem tất cả các Transition và Animation trong bài trình chiếu?&nbsp;",
+    "type": "single",
+    "options": [
+      "Slide Show&nbsp;",
+      "Design&nbsp;",
+      "Transitions&nbsp;",
+      "Home&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Định dạng tập tin nào hỗ trợ độ trong suốt trong Logo?&nbsp;",
+    "type": "single",
+    "options": [
+      "PNG&nbsp;",
+      "JPG&nbsp;",
+      "TIFF&nbsp;",
+      "PDF&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Một giám đốc tiếp thị đang chuẩn bị một bài thuyết trình và muốn một quả bóng nảy lên xuống trên một Slide. Em hãy cho biết, giám đốc tiếp thị nên thêm gì vào quả bóng?&nbsp;",
+    "type": "single",
+    "options": [
+      "Animation&nbsp;",
+      "Timing&nbsp;",
+      "Transition&nbsp;",
+      "Custom effect&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 25,
+    "question": "Loại ứng dụng nào phù hợp nhất để theo dõi doanh số bán hàng và tạo tổng số từ những lần bán hàng đó?&nbsp;",
+    "type": "single",
+    "options": [
+      "Document&nbsp;",
+      "Table&nbsp;",
+      "Spreadsheet&nbsp;",
+      "Presentation&nbsp;"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "id": 1,
+    "question": "Mục đích chính của việc lập phiên bản tập tin là gì?",
+    "type": "single",
+    "options": [
+      "Để xác định ngày tập tin được tạo.",
+      "Để cho phép người dùng khôi phục các bản sao trước đó của tập tin.",
+      "Để cho phép nhiều người dùng cộng tác trên cùng nội dung tập tin.",
+      "Để xác định xem tập tin là bản nháp hay là bản phát hành tạm thời (chưa phải bản cuối)."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Xác định ưu điểm của máy in phun và máy in laser.Để trả lời, bạn hãy chọn loại máy in tương ứng với từng ưu điểm:",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Tài liệu khô mực ngay khi in ra",
+        "choices": [
+          "Máy in phun",
+          "Máy in laser"
+        ]
+      },
+      {
+        "text": "Thích hợp để in tài liệu số lượng lớn với chi phí thấp",
+        "choices": [
+          "Máy in phun",
+          "Máy in laser"
+        ]
+      },
+      {
+        "text": "Phù hợp để in ảnh chất lượng cao",
+        "choices": [
+          "Máy in phun",
+          "Máy in laser"
+        ]
+      },
+      {
+        "text": "Thân thiện với môi trường hơn",
+        "choices": [
+          "Máy in phun",
+          "Máy in laser"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Bạn có các tài khoản Google riêng để sử dụng tại trường học và cho mục đích cá nhân. Bạn đã đăng nhập vào tài khoản cá nhân của mình. Bạn cần truy cập một tập tin được chia sẻ với bạn thông qua Google Drive của tài khoản trường học của bạn. Bạn nên làm gì?",
+    "type": "single",
+    "options": [
+      "Đặt cấu hình cả hai tài khoản để sử dụng cùng một mật khẩu.",
+      "Liên kết Google Drive của tài khoản cá nhân và tài khoản trường học.",
+      "Trong phần cài đặt tài khoản Google cá nhân, bỏ chặn tài khoản trường học của bạn.",
+      "Chuyển từ tài khoản Google cá nhân sang tài khoản trường học của bạn."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Bạn tìm thấy một bài đăng trên mạng xã hội chia sẻ thông tin y tế không chính xác và gây hiểu lầm. Bạn quyết định trả lời bài viết này. Với mỗi phản hồi, hãy chọn Có nếu việc này tuân thủ các chuẩn mực đạo đức thích hợp trong môi trường số hoặc Không nếu không phải.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "“Rất khó để tìm hiểu tất cả mọi thứ, nhưng có rất nhiều nguồn để tìm hiểu về vấn đề này.”",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "“SAI RỒI! Bạn có TÌM HIỂU KỸ trước khi đăng bài này không?”",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "“Rất nhiều bác sĩ, bao gồm cả Jane Smith từ Harvard Medical School đều không đồng ý.”",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "“Đây là việc làm sai lầm và khiến bạn trông thật ngớ ngẩn! Rõ ràng là bạn không tìm hiểu từ Harvard Medical School”.",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Giáo viên của bạn mời một diễn giả khách mời thuyết trình trước lớp. Bạn cần tuân thủ các chuẩn mực đạo đức trong môi trường số và thể hiện với diễn giả rằng bạn đang lắng nghe. Đâu là hai hành động thích hợp cần làm trong buổi thuyết trình của diễn giả? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Sử dụng điện thoại thông minh để chụp ảnh các trang trình bày của diễn giả mà bạn muốn giữ lại để tham khảo trong tương lai.",
+      "Sử dụng điện thoại thông minh để chụp ảnh chính bạn và những người tham gia khác để ghi lại trải nghiệm của mình.",
+      "Sử dụng máy tính bảng/ máy tính xách tay để ghi chú trong khi nghe thuyết trình, đồng thời duy trì giao tiếp bằng mắt với diễn giả.",
+      "Sử dụng máy tính bảng/ máy tính xách tay để nghiên cứu thông tin và sở thích của diễn giả."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Người dùng muốn tìm kiếm cụm từ Yankee Candle, nhưng kết quả trả về không chứa cụm từ cần tìm. Kết quả trả về chỉ xuất hiện các từ riêng lẻ Yankee hoặc Candle. Tùy chọn nào sau đây nên được sử dụng có thể giúp tìm kiếm hiệu quả hơn?",
+    "type": "single",
+    "options": [
+      "Dấu ngoặc kép",
+      "Dấu ngoặc đơn",
+      "Dấu ngoặc nhọn",
+      "Dấu ngoặc vuông"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Bạn hãy cho biết cần phải thực hiện điều nào sau đây trước khi một tài liệu có thể đồng tác giả (Coauthor) bởi nhiều người dùng?",
+    "type": "single",
+    "options": [
+      "Nó phải được xuất bản trực tuyến",
+      "Nó phải được xem xét",
+      "Nó phải được theo dõi",
+      "Nó phải được chia sẻ"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Bạn hãy cho biết hai tính năng nào trong Microsoft Word cho phép xem xét các thay đổi và cung cấp phản hồi cho những thay đổi đó? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Giúp đỡ (Help)",
+      "Theo dõi thay đổi (Track Changes)",
+      "Phản hồi (Feedback)",
+      "Nhận xét (Comments)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Bạn đang chuẩn bị một bản trình chiếu kỹ thuật số để kiếm tiền cho câu lạc bộ của mình. Bạn tìm kiếm một bài hát trên mạng để phối lại và thêm vào bài thuyết trình của mình. Tùy chọn nào sau đây là giấy phép Creative Commons cho phép bạn phối lại bài hát cho bản trình bày của mình?",
+    "type": "single",
+    "options": [],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Giấy phép Creative Commons nào cho phép sử dụng tác phẩm gốc nhưng không được sửa đổi mà không có sự cho phép của chủ sở hữu?",
+    "type": "single",
+    "options": [
+      "NonCommercial",
+      "Attribution",
+      "NoDerivatives",
+      "ShareAlike"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Lợi thế của việc sử dụng ví điện tử như Apple Pay hoặc Google Pay là gì?",
+    "type": "single",
+    "options": [
+      "Tạo lịch sử tín dụng của bạn.",
+      "Yêu cầu bạn ủy quyền mọi giao dịch.",
+      "Khuyến khích bạn tìm kiếm và mua sắm với mức giá tốt nhất.",
+      "Tự động cung cấp số thẻ tín dụng của bạn cho các cửa hàng trực tuyến."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Khi phản hồi không đồng ý với một bài đăng trực tuyến, bạn nên sử dụng giọng điệu giống như người đăng ban đầu.",
+    "type": "single",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Thanh toán kỹ thuật số hoạt động như thế nào?",
+    "type": "single",
+    "options": [
+      "Thanh toán kỹ thuật số tương tự như Check điện tử.",
+      "Thanh toán kỹ thuật số yêu cầu người đăng ký.",
+      "Thanh toán kỹ thuật số giống như một I.O.U.",
+      "Thanh toán kỹ thuật số yêu cầu liên kết với tài khoản ngân hàng hoặc thẻ tín dụng."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Một hội đồng phỏng vấn cần sàng lọc những người lọt vào vòng chung kết cho một vị trí cấp giám đốc trong công ty của họ. Các thành viên của ủy ban nằm trong cùng một văn phòng. Các ứng cử viên cho vị trí này nằm ở các bang khác nhau. Hai công cụ hợp tác nào sẽ hiệu quả nhất để thực hiện các cuộc phỏng vấn này? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Text Message",
+      "Video Conference",
+      "Phone Call",
+      "Email"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Chọn từng kiểu mua hàng trong ứng dụng cho phù hợp với mô tả tương ứng.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Mở khóa một tính năng đặc biệt trên trò chơi điện tử",
+        "choices": [
+          "Tự động gia hạn",
+          "Không tự động gia hạn",
+          "Vật tư tiêu hao",
+          "Vật tư không tiêu hao"
+        ]
+      },
+      {
+        "text": "Đăng ký dịch vụ phát Video trực tuyến",
+        "choices": [
+          "Tự động gia hạn",
+          "Không tự động gia hạn",
+          "Vật tư tiêu hao",
+          "Vật tư không tiêu hao"
+        ]
+      },
+      {
+        "text": "Thuê phim trực tuyến thông qua dịch vụ phát trực tuyến",
+        "choices": [
+          "Tự động gia hạn",
+          "Không tự động gia hạn",
+          "Vật tư tiêu hao",
+          "Vật tư không tiêu hao"
+        ]
+      },
+      {
+        "text": "Mua đá quý hoặc tiền xu cho trò chơi trên thiết bị di động",
+        "choices": [
+          "Tự động gia hạn",
+          "Không tự động gia hạn",
+          "Vật tư tiêu hao",
+          "Vật tư không tiêu hao"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Các nhà cung cấp thương mại điện tử bán nhiều hàng hóa và dịch vụ khác nhau trên mạng. Phân loại từng mục là Hàng hóa hay Dịch vụ.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Đăng ký phần mềm",
+        "choices": [
+          "Dịch vụ",
+          "Hàng hóa"
+        ]
+      },
+      {
+        "text": "Lưu trữ đám mây",
+        "choices": [
+          "Dịch vụ",
+          "Hàng hóa"
+        ]
+      },
+      {
+        "text": "Bộ định tuyến mạng",
+        "choices": [
+          "Dịch vụ",
+          "Hàng hóa"
+        ]
+      },
+      {
+        "text": "Tai nghe Bluetooth",
+        "choices": [
+          "Dịch vụ",
+          "Hàng hóa"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Bạn hãy cho biết thuật ngữ nào sau đây giải thích tốt nhất những gì xuất hiện ở bên phải của trang Web này?",
+    "type": "single",
+    "options": [
+      "Cửa sổ bật lên (Popup)",
+      "Hộp trò chuyện (Chatbot)",
+      "Tin nhắn trong ứng dụng (In-app Messenger)",
+      "Trợ lý ảo (Virtual Agent)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này.",
+    "images": [
+      "https://elearning.mindnext.vn/pluginfile.php/57774/question/questiontext/4207370/17/14283/image5.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Với mỗi câu phát biểu về thanh toán kỹ thuật số, hãy chọn Đúng hoặc Sai",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Thẻ ghi nợ, thẻ tín dụng, thanh toán chuyển khoản qua ngân hàng và ví điện tử đều là các loại thanh toán kỹ thuật số.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Tiền mặt có thể được coi là một loại hình thanh toán kỹ thuật số.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Thanh toán kỹ thuật số diễn ra khi cả người thanh toán và người được thanh toán sử dụng các phương tiện điện tử để thực hiện và nhận thanh toán.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Chọn hình thức giao tiếp phù hợp với tình huống đang sử dụng hình thức đó.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bạn thêm một đoạn dài trình bày quan điểm của mình về sự đa dạng văn hóa vào nhật ký trực tuyến của mình",
+        "choices": [
+          "Tin nhắn văn bản",
+          "Bài đăng trên Blog",
+          "Email",
+          "Bài đăng trên diễn đàn"
+        ]
+      },
+      {
+        "text": "Bạn liên hệ với huấn luyện viên của mình sau giờ học để nói với anh ấy rằng bạn sẽ bỏ lỡ buổi tập hôm nay",
+        "choices": [
+          "Tin nhắn văn bản",
+          "Bài đăng trên Blog",
+          "Email",
+          "Bài đăng trên diễn đàn"
+        ]
+      },
+      {
+        "text": "Bạn thêm câu hỏi vào nhóm thảo luận trò chơi điện tử đang diễn ra",
+        "choices": [
+          "Tin nhắn văn bản",
+          "Bài đăng trên Blog",
+          "Email",
+          "Bài đăng trên diễn đàn"
+        ]
+      },
+      {
+        "text": "Bạn liên lạc với công ty về việc nhận tiền hoàn lại",
+        "choices": [
+          "Tin nhắn văn bản",
+          "Bài đăng trên Blog",
+          "Email",
+          "Bài đăng trên diễn đàn"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Một học sinh cấp hai tham gia cộng đồng mạng xã hội gồm những người có cùng sở thích với mình. Với mỗi câu phát biểu, hãy chọn Đúng nếu đây là cách phù hợp để tương tác với cộng đồng trực tuyến hoặc Sai nếu không phù hợp.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Trả lời bình luận trên một chuỗi chủ đề nói rằng mình không đồng ý, sử dụng giọng điệu tôn trọng.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Chia sẻ bình luận từ cộng đồng với một nhóm khác mà không nói rõ ai đã đưa ra bình luận đó.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Giới thiệu bản thân với các thành viên cộng đồng và cung cấp địa chỉ Email cá nhân của cậu ấy.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Hy vọng các thành viên khác trong cộng đồng coi thông tin cậu ấy chia sẻ là riêng tư.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Lớp của bạn đang họp qua hình thức hội thảo Video. Bạn và ba sinh viên khác sẽ thay phiên nhau trình bày thông tin trên Camera và từng người chia sẻ màn hình riêng của mình. Ba hành động bạn cần thực hiện trước khi thuyết trình? (Chọn 3)",
+    "type": "multiple",
+    "options": [
+      "Cho các sinh viên khác biết rằng họ có thể đồng thời chia sẻ màn hình.",
+      "Đóng bất kỳ chương trình và tab trình duyệt nào mà bạn không cần.",
+      "Luyện tập bài thuyết trình của mình trong khi những người khác đang thuyết trình.",
+      "Kiểm tra và luyện tập sử dụng tính năng chia sẻ màn hình.",
+      "Đảm bảo rằng hình ảnh trong bài thuyết trình của bạn phù hợp với trường học.",
+      "Trình bày ở ngoài trời để có ánh sáng tự nhiên."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Bạn tham gia nhóm gồm 10 sinh viên đang thực hiện một dự án lớn trong lớp học về sức khỏe. Nhóm của bạn sẽ thảo luận thông qua công cụ hội thảo Video. Bạn nên thực hiện hai hành động nào trước khi tham gia hội thảo Video lần đầu tiên? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Kiểm tra trước công nghệ hội thảo Video.",
+      "Chuẩn bị sẵn thực phẩm ăn nhẹ để có thể ăn tạm khi đói",
+      "Đặt ánh sáng phía sau bạn để tạo hình ảnh bóng đổ.",
+      "Đặt camera của bạn ngang tầm mắt."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Bạn lãnh đạo một nhóm gồm những người thuộc các nền văn hóa, giới tính và độ tuổi khác nhau. Bạn dự định tổ chức một cuộc họp từ xa bằng công cụ hội thảo Video để lên ý tưởng cho một dự án mới. Bạn cần tuân thủ các chuẩn mực đạo đức trong môi trường số. Bạn nên thực hiện hai hành động nào sau đây? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Đề nghị hỗ trợ riêng cho một thành viên trong nhóm không có kinh nghiệm tham dự hội thảo Video nhằm giúp họ làm quen với chức năng điều khiển trước cuộc họp.",
+      "Sử dụng các tính năng như Giơ tay (Raise Hand) để tạo cơ hội cho tất cả các thành viên trong nhóm tham gia",
+      "Yêu cầu một thành viên nói giọng không chuẩn bản ngữ (Có âm giọng nặng) trả lời qua hộp trò chuyện để các thành viên còn lại trong nhóm có thể hiểu",
+      "Đảm bảo sự tập trung và tránh xung đột trong nhóm bằng cách chỉ thảo luận các ý tưởng có trong danh sách riêng của bạn."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Tuỳ chọn nào sau đây là quá trình chuyển đổi dữ liệu sang dạng thức không thể nhận dạng yêu cầu sử dụng khóa để trả dữ liệu về dạng văn bản thuần?",
+    "type": "single",
+    "options": [
+      "Mã hóa Encryption",
+      "Nén (Compression)",
+      "Mã hóa Encoding",
+      "Hàm băm (Hashing)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 25,
+    "question": "Với mỗi câu phát biểu về tính bảo mật của thiết bị đa phương tiện di động hãy chọn Đúng hoặc Sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bạn nên lưu trữ các công việc và tập tin cá nhân của mình trên các thiết bị riêng biệt, không được cắm thiết bị cá nhân vào máy tính làm việc hoặc ngược lại.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Bạn nên tắt tính năng tự động chạy và tự động phát cho tất cả các thiết bị đa phương tiện di động.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Nếu bạn tìm thấy một thiết bị lưu trữ phương tiện truyền thông và không biết nó thuộc về ai, hãy cắm thiết bị đó vào máy tính của bạn để tìm thông tin về chủ nhân của nó.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 26,
+    "question": "Bạn đang sử dụng chương trình phần mềm mới để tạo bài trình chiếu. Bạn cần sử dụng một chức năng không quen thuộc. Với mỗi tài nguyên, hãy chọn Có nếu bạn có thể sử dụng nó để tìm kiếm sự hỗ trợ hoặc Không nếu không thể.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Diễn đàn trực tuyến dành riêng cho phần mềm.",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Trang LinkedIn dành cho công ty phần mềm.",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Tính năng Trợ giúp (Help) trong chương trình.",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Hướng dẫn cài đặt phần mềm.",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

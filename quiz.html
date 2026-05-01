@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Làm bài Quiz - IC3 GS6 Level 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container quiz-header">
+            <h1 id="quiz-title">Đang tải...</h1>
+            <div class="coin-counter" title="Số sao của bạn">
+                <span class="coin-icon">⭐</span> <span id="header-coin-amount">0</span>
+            </div>
+            <div class="progress-container">
+                <span id="question-counter">Câu: 1/10</span>
+                <div class="racing-track">
+                    <div id="progress-car" class="racing-car">🚗</div>
+                    <div id="progress-bar" class="racing-fill"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-main container quiz-main">
+        <div class="quiz-card" id="quiz-card">
+            <!-- Question content will be rendered here -->
+        </div>
+
+        <div class="quiz-navigation">
+            <button id="btn-prev" class="btn btn-secondary" onclick="prevQuestion()" style="display: none;">Quay lại</button>
+            <button id="btn-next" class="btn btn-primary" onclick="nextQuestion()">Tiếp theo</button>
+            <button id="btn-submit" class="btn btn-success" onclick="submitQuiz()" style="display: none;">Nộp Bài</button>
+        </div>
+    </main>
+
+    <footer class="app-footer">
+        <p>&copy; 2026 IC3 Kids Learning Platform</p>
+    </footer>
+
+    <div class="mascot-container">
+        <div class="mascot-bubble" id="mascot-message">Cố lên bạn ơi! Chinh phục đỉnh cao nào!</div>
+        <div class="mascot-img" onclick="mascotCheer()">🦉</div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initQuiz();
+        });
+    </script>
+</body>
+</html>

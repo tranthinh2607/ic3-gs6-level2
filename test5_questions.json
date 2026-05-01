@@ -1,0 +1,860 @@
+[
+  {
+    "id": 1,
+    "question": "Bạn đang viết báo cáo về Chiến tranh năm 1812. Bạn tìm kiếm những bài báo về cuộc chiến tranh này trên mạng. Bạn cần lọc kết quả để chỉ hiển thị những bài báo được xuất bản trong năm vừa qua. Bạn có thể chọn nút nào để đạt được mục tiêu nói trên?",
+    "type": "single",
+    "options": [],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này.",
+    "images": [
+      "https://elearning.mindnext.vn/pluginfile.php/57774/question/questiontext/4207329/1/13174/h.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Khi sử dụng công cụ tìm kiếm và kết quả được tạo ra từ một tìm kiếm, danh mục nào có thể được sử dụng để lọc các tìm kiếm? (Chọn 3)",
+    "type": "multiple",
+    "options": [
+      "Tech",
+      "Locations",
+      "Images",
+      "Videos",
+      "News"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Bạn cần đánh giá xem nội dung của bài viết trực tuyến có chứa thành kiến hay không. Với mỗi khía cạnh của bài viết, hãy chọn Yes nếu bạn cần kiểm tra yếu tố đó để đánh giá tính thành kiến của bài viết hoặc No nếu không cần.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nguồn tài trợ bài viết",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Mối liên hệ của tác giả với các tổ chức chính trị",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Ngày xuất bản bài viết",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Trình độ giáo dục của tác giả",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Làm thế nào bạn có thể đánh giá mức độ liên quan của một kết quả tìm kiếm hoặc tạo tác kỹ thuật số? Đối với mỗi tuyên bố về đánh giá mức độ liên quan, hãy chọn Đúng nếu nó xác nhận mức độ liên quan hoặc Sai nếu nó không xác nhận mức độ liên quan.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Các tiêu đề, tóm tắt và năm xuất bản phù hợp với nhu cầu thông tin của bạn.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Tất cả các kết quả trả về từ một công cụ tìm kiếm đều có liên quan.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Sử dụng các tùy chọn nâng cao khi tìm kiếm.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Nó không khớp với thông tin bạn cần, nhưng nó có một tiêu đề thực sự thú vị.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Bạn đang tìm kiếm hình ảnh trên Google. Cụ thể, bạn đang tìm kiếm Clipart về một con thỏ mà bạn có thể sử dụng trên một trang web mà không cần liên hệ với họa sĩ để xin phép. Hai bộ lọc nào sau đây sẽ thu hẹp kết quả tìm kiếm của bạn để chỉ hiển thị Clipart có sẵn để sử dụng mà không có sự cho phép của họa sĩ? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Thời gian (Time)",
+      "Quyền sử dụng (Usage Rights)",
+      "Màu sắc (Color)",
+      "Thể loại (Type)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Bạn cần nghiên cứu tác động của việc học trực tuyến và đánh giá mức độ phù hợp của kết quả tìm kiếm. Với mỗi câu phát biểu, hãy chọn Yes nếu kết quả tìm kiếm phù hợp với chủ đề của bạn hoặc chọn No nếu không phù hợp.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bài báo về lợi ích của giáo dục.",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Bài báo trên tạp chí giáo dục về kinh nghiệm giảng dạy trực tuyến của giáo viên.",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Biểu đồ so sánh điểm kiểm tra của học sinh trong hệ thống giáo dục trực tuyến và trực tiếp.",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Trang Web bán tài nguyên giáo dục.",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Người dùng muốn tìm kiếm cụm từ Yankee Candle, nhưng không có cụm từ tìm kiếm trả về các kết quả phù hợp riêng lẻ với các từ Yankee hoặc Candle. Loại dấu câu hoặc ký hiệu nào nên được sử dụng xung quanh cụm từ khi tìm kiếm?",
+    "type": "single",
+    "options": [
+      "Dấu ngoặc vuông",
+      "Dấu ngoặc nhọn",
+      "Dấu ngoặc đơn",
+      "Dấu ngoặc kép"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Bạn đang chuẩn bị một bản trình chiếu kỹ thuật số để kiếm tiền cho câu lạc bộ của mình. Bạn tìm kiếm một bài hát trên mạng để phối lại và thêm vào bài thuyết trình của mình. Tùy chọn nào sau đây là giấy phép Creative Commons cho phép bạn phối lại bài hát cho bản trình bày của mình?",
+    "type": "single",
+    "options": [],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Người sử dụng lao động giao bạn phụ trách viết bản tin hàng tháng cho công ty. Cô ấy yêu cầu bạn mời tất cả nhân viên đóng góp ý kiến về những gì họ muốn đưa vào bản tin mỗi tháng. Công ty có hơn 200 nhân viên ở bốn vị trí địa lý. Các phương pháp khác nhau có thể sử dụng để thu thập phản hồi từ nhân viên khác là gì?&nbsp;Đối với mỗi phát biểu về việc thu thập câu trả lời, hãy chọn Đúng nếu phù hợp hoặc Sai nếu không phù hợp.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Gửi một cuộc khảo sát qua Email cho tất cả nhân viên của công ty.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Yêu cầu mọi người trên mạng xã hội đăng ý tưởng của họ.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Đăng biểu mẫu trên trang web của công ty và mời tất cả nhân viên hoàn thành biểu mẫu.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Viết blog về công việc mà người sử dụng lao động đã giao cho bạn.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Trong số các nguồn thông tin trực tuyến, loại trang Web nào có nhiều khả năng xuất bản thông tin đáng tin cậy nhất?",
+    "type": "single",
+    "options": [
+      "Tạp chí học thuật",
+      "Trang web tin tức",
+      "Blog cá nhân",
+      "Trang Wiki"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Các tranh chấp về Bản quyền sử dụng hợp lý (Fair Use Copyright) được giải quyết bằng cách xem xét bốn yếu tố về tác phẩm đã bị sao chép bất hợp pháp. Bốn yếu tố nào mà một Thẩm phán sẽ sử dụng để xác định xem Sử dụng hợp lý có bị vi phạm hay không?&nbsp;Đối với mỗi phát biểu, hãy chọn Đúng nếu nó là một nhân tố hoặc Sai nếu không phải là một nhân tố.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Sao chép một tác phẩm mà bạn đã được thừa kế từ cha mẹ.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Ảnh hưởng của việc sử dụng sao chép đối với thị trường tiềm năng của tác phẩm gốc.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Mục đích và đặc điểm của việc sử dụng của bạn.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Số lượng và tính chất của phần được lấy.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Cho dù bạn sao được sử dụng trong lớp học hay bởi học sinh hay giáo viên.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Loại hoặc bản chất tác phẩm đã được sao chép.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Hai tài nguyên nào là tài nguyên cộng đồng có thể giúp bạn sử dụng một tính năng trong chương trình phần mềm? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Blogs",
+      "Diễn đàn (Forums)",
+      "Hướng dẫn cài đặt (Installation instructions)",
+      "Wikipedia"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Bạn hãy cho biết ba tài nguyên công cộng (Community Resource) cho phép người dùng tra cứu các tài nguyên trực tuyến?",
+    "type": "multiple",
+    "options": [
+      "Trường học",
+      "Thư viện",
+      "Bệnh viện",
+      "Tòa án",
+      "Các phòng ban Giao Thông Vận Tải"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Khi điền vào biểu mẫu, điều nào sau đây là đúng? Đối với mỗi phát biểu về việc điền vào biểu mẫu, hãy chọn Đúng nếu phát biểu là đúng hoặc Sai nếu sai",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nếu bạn giữ phím Ctrl, bạn có thể chọn nhiều mục từ danh sách thả xuống.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Khi được chọn nhiều tùy chọn (Option/Radio) trong bộ chọn, nếu bạn giữ phím Ctrl, bạn có thể chọn nhiều hơn một.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Khi được chọn nhiều hộp kiểm (check box) trong bộ chọn, bạn chỉ có thể chọn một.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Sau khi điền vào biểu mẫu, câu trả lời của bạn sẽ không được ghi lại cho đến khi bạn nhấp vào nút gửi.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Giáo viên của bạn đã giao cho bạn một nhiệm vụ để xác thực quan điểm của kết quả tìm kiếm và tạo tác kỹ thuật số. Đối với mỗi phát biểu về quan điểm xác thực, hãy chọn Đúng nếu tuyên bố đúng hoặc Sai nếu tuyên bố sai",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Một khuynh hướng cánh tả ủng hộ bình đẳng xã hội, chủ nghĩa tự do và các ý tưởng cách mạng.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Tất cả các câu chuyện đăng trên Internet đều có quan điểm trung lập.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Những câu chuyện được đăng tải bởi một mạng lưới truyền thông lớn luôn thể hiện cả hai mặt và một góc nhìn bình đẳng.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Thành kiến của cánh hữu ủng hộ các doanh nghiệp tự do, quyền sở hữu tư nhân và các ý tưởng bảo thủ về mặt xã hội.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Bạn cần đánh giá xem nội dung của bài biết trực tuyến có chứa thành kiến hay không. Với mỗi khía cạnh của bài viết, hãy chọn Yes nếu bạn cần kiểm tra yếu tố đó để đánh giá tính thành kiến của bài viết hoặc No nếu không cần.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Ngày xuất bản bài viết",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Nguồn tài trợ bài viết",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Trình độ giáo dục của tác giả",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "text": "Mối liên hệ của tác giả với các tổ chức chính trị",
+        "choices": [
+          "No",
+          "Yes"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Ghép từng định nghĩa chuỗi tìm kiếm Boolean với chuỗi tìm kiếm Boolean tương ứng. Để trả lời, hãy chọn chuỗi tìm kiếm từ danh sách bên phải sao cho phù hợp với từng định nghĩa bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Trả kết quả cho một trong hai từ nếu có từ còn lại",
+        "choices": [
+          "(cá OR rùa) AND thái bình dương",
+          "sư tử OR hổ",
+          "trâu NOT bò rừng"
+        ]
+      },
+      {
+        "text": "Trả kết quả cho một trong hai từ",
+        "choices": [
+          "(cá OR rùa) AND thái bình dương",
+          "sư tử OR hổ",
+          "trâu NOT bò rừng"
+        ]
+      },
+      {
+        "text": "Trả kết quả không bao gồm một từ",
+        "choices": [
+          "(cá OR rùa) AND thái bình dương",
+          "sư tử OR hổ",
+          "trâu NOT bò rừng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 18,
+    "question": "Một cô gái xây dựng trang Web đầu tiên. Cô gái phải suy nghĩ về thiết kế và chức năng. Vì vậy, cô ấy đang tìm kiếm phản hồi để cung cấp thông tin và cải thiện việc học của mình. Hai ví dụ nào về cách người dùng có thể tìm kiếm phản hồi hiệu quả để cung cấp thông tin và cải thiện việc học của họ? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Đọc một cuốn sách hay về thiết kế trang web.",
+      "Nhờ người có chuyên môn xem xét trang web và đưa ra phản hồi.",
+      "Chạy quảng cáo trên trang web và theo dõi số lượng nhấp chuột được thu thập.",
+      "Gửi một cuộc khảo sát mời người dùng đưa ra phản hồi về trang web."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Bạn đang tạo một cuộc khảo sát để thu thập phản hồi từ bạn bè về một Blog mới mà bạn muốn xuất bản về trượt ván. Ba câu hỏi nào là thích hợp để hỏi trong một cuộc khảo sát để giúp bạn tạo một Blog mới? (Chọn 3)",
+    "type": "multiple",
+    "options": [
+      "Công viên trượt tuyết yêu thích",
+      "Họ sẽ trả bao nhiêu cho một ván trượt",
+      "Phim lướt sóng hay nhất",
+      "Thủ thuật họ muốn học",
+      "Đề xuất tiêu đề",
+      "Thương hiệu yêu thích của ván trượt"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Ban đang tìm hiểu về quyền và nghĩa vụ của việc chia sẻ tài sản trí tuệ. Cụ thể, ban đang làm việc để hiểu ý nghĩa của \"vi phạm\" và \"chiếm đoạt\". Khớp từng loại sở hữu trí tuệ với mô tả vi phạm của nó.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Chia sẻ bí mật thương mại mà không có sự cho phép bằng văn bản",
+        "choices": [
+          "Vi phạm bản quyền (Piracy)",
+          "Vi phạm Bằng sáng chế (Patent Infringement)",
+          "Biển thủ (Misappropriation)",
+          "Vi phạm nhãn hiệu (Trademark Infringement)"
+        ]
+      },
+      {
+        "text": "Sử dụng hoặc bán một sáng chế mà không được phép của chủ sở hữu quyền sở hữu trí tuệ",
+        "choices": [
+          "Vi phạm bản quyền (Piracy)",
+          "Vi phạm Bằng sáng chế (Patent Infringement)",
+          "Biển thủ (Misappropriation)",
+          "Vi phạm nhãn hiệu (Trademark Infringement)"
+        ]
+      },
+      {
+        "text": "Sử dụng biểu trưng hoặc tên tương tự với biểu trưng đã được một bên khác sử dụng",
+        "choices": [
+          "Vi phạm bản quyền (Piracy)",
+          "Vi phạm Bằng sáng chế (Patent Infringement)",
+          "Biển thủ (Misappropriation)",
+          "Vi phạm nhãn hiệu (Trademark Infringement)"
+        ]
+      },
+      {
+        "text": "Sao chép, phân phối, trưng bày hoặc biểu diễn một tác phẩm hoặc tạo ra các tác phẩm phái sinh mà không được phép của chủ bản quyền",
+        "choices": [
+          "Vi phạm bản quyền (Piracy)",
+          "Vi phạm Bằng sáng chế (Patent Infringement)",
+          "Biển thủ (Misappropriation)",
+          "Vi phạm nhãn hiệu (Trademark Infringement)"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Bạn cần xác định xem một bài báo trình bày thông tin thực tế hay thành kiến. Đâu là hai dấu hiệu cho thấy bài báo trình bày quan điểm thành kiến? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Bài báo được đăng trên một tờ báo nhỏ, không phải là một tạp chí học thuật nổi tiếng.",
+      "Tác giả nói rằng các tác gia của một bài báo đối lập có tư tưởng cực đoạn, do đó không thể hiểu chủ đề.",
+      "Tác giả đưa vào các biện luận để phản bác quan điểm đối lập.",
+      "Tác giả hỗ trợ những ý tưởng trong bài viết bằng các trình bày nhưng câu chuyện thú vị thay vì những con số thống kê."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Bạn cần tìm người chải lông cho chú chó của mình. Tài nguyên trực tuyến nào sẽ là lựa chọn tốt nhất để giúp bạn tìm một dịch vụ cộng đồng, chẳng hạn như người cắt tỉa lông chó?",
+    "type": "single",
+    "options": [
+      "Google",
+      "Instagram",
+      "Twitter",
+      "Facebook"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Bạn đang chuẩn bị viết bài nghiên cứu. Bạn tìm thấy một nghiên cứu khoa học liên quan tới chủ đề của mình. Bạn cần phải xác định xem liệu nghiên cứu đó có đáng tin hay không. Với mỗi câu phát biểu, hãy chọn Có nếu bạn phải xem xét yếu tố đó để đánh giá độ tin cậy của nghiên cứu hoặc Không nếu bạn không cần.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Đơn vị công bố kết quả nghiên cứu.",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "Tổ chức tài trợ cho nghiên cứu.",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "Mức độ phổ biến của nghiên cứu.",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Đề thu hẹp kết quả trong tìm kiếm của Google, bạn quyết định sử dụng các cụm từ và ký hiệu cho từ khóa tìm kiếm. Khớp từng từ khóa tìm kiếm với kết quả của nó.Đề trả lời, hãy kéo mục của từ khóa ở cột bên phải sang ý nghĩa cột bên trái tương ứng.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Tìm kiếm từ đồng nghĩa.",
+        "choices": [
+          "OR as a Boolean value",
+          "Tilde Symbol (~)",
+          "Range or Double Dots (..)",
+          "Double Quotes (“”)"
+        ]
+      },
+      {
+        "text": "Đại diện cho toán tử phạm vi để tìm tất cả các kết quả có liên quan trong phạm vi được chỉ định.",
+        "choices": [
+          "OR as a Boolean value",
+          "Tilde Symbol (~)",
+          "Range or Double Dots (..)",
+          "Double Quotes (“”)"
+        ]
+      },
+      {
+        "text": "Sử dụng toán tử này trong tìm kiếm trên Google giữa hai từ khóa sẽ trả về một hoặc cả hai từ khóa trong kết quả.",
+        "choices": [
+          "OR as a Boolean value",
+          "Tilde Symbol (~)",
+          "Range or Double Dots (..)",
+          "Double Quotes (“”)"
+        ]
+      },
+      {
+        "text": "Buộc Google tìm kiếm các từ hoặc cụm từ chính xác được đề cập trong dấu ngoặc kép.",
+        "choices": [
+          "OR as a Boolean value",
+          "Tilde Symbol (~)",
+          "Range or Double Dots (..)",
+          "Double Quotes (“”)"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 25,
+    "question": "Bạn đang tiến hành nghiên cứu bằng cách sử dụng công cụ tìm kiếm. Đối với mỗi phát biểu về việc sử dụng \"từ khóa\" hay chọn Đúng nếu nó hiển thị kết quả hợp lý hoặc Sai nếu không hiển thị.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Ngựa OR bò OR lợn OR cừu: Các cụm từ tìm kiếm chính này sẽ trả về kết quả chứa cả ngựa, bò, lợn hoặc cừu.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "\"richest people in America\": Các cụm từ tìm kiếm quan trọng này sẽ chỉ trả về kết quả chứa cụm từ chính xác đó.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "mustang, camero, -convertible: Các cụm từ tìm kiếm chính này sẽ trả về tất cả mustang và camero không phải là loại mui trần (convertible).",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 26,
+    "question": "Công ty của bạn muốn cải tiến thiết kế của chiếc xe chạy bằng điện mà công ty sản xuất. Bạn cần khảo sát những khách hàng lẻ đã mua xe và cung cấp phản hồi hữu ích để giúp công ty đạt được mục tiêu nói trên. Với mỗi câu hỏi, hãy chọn Có nếu bạn hỏi nay mang đến phản hồi hữu ích hoặc Không nếu không.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bạn có thích phương tiện này không?",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Bạn có muốn giới thiệu phương tiện đi lại này cho một người bạn không?",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Điều gì có thể cải thiện phương tiện này?",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Các tính năng quan trọng nhất của xe là gì?",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 27,
+    "question": "Hai lựa chọn nào sau đây giải thích hệ thống lưu trữ dữ liệu trung tâm? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Cơ sở dữ liệu theo dõi hàng tồn kho, đơn đặt hàng của khách hàng và giao hàng.",
+      "Thiết bị lưu trữ được đặt bên trong máy tính.",
+      "Hệ thống quản lý tài liệu và thư viện, chẳng hạn như SharePoint.",
+      "Chia sẻ ổ cứng trên máy tính của bạn với các nhân viên khác."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 28,
+    "question": "Bạn đang tìm kiếm các dữ kiện để hỗ trợ một bài thuyết trình mà bạn đang xây dựng cho lớp khoa học của mình. Bạn tìm thấy một nghiên cứu khoa học liên quan đến chủ đề của bạn. Làm thế nào để bạn biết liệu nghiên cứu này có đáng tin cậy hay không?Đối với mỗi phát biểu, hãy chọn Đúng nếu bạn thấy tiêu chí là nên cân nhắc hoặc Sai nếu không.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Chuyên môn và uy tín của nhà báo",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bạn có thể tìm và truy cập các nguồn",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Có bao nhiêu người đã chia sẻ nghiên cứu trên mạng xã hội",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Nhà báo sử dụng kiến thức địa phương",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 29,
+    "question": "Trong khi nghiên cứu một chủ đề bạn không biết gì, kết quả tìm kiếm của bạn mang lại một số bài báo thuyết phục. Làm thế nào để bạn biết liệu bất kỳ bài báo nào trong số này là thiên vị? Đối với mỗi phát biểu về việc đánh giá sự thiên vị của kết quả tìm kiếm, chọn Đúng nếu nó là không thiên vị hoặc Sai nếu nó thiên vị.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Kiểm tra các bài viết trên mediasfactcheck.com hoặc newsfactsnetwork.com.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bài báo đã được đăng trên một tạp chí uy tín, được đánh giá chuyên nghiệp.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bài báo đã được xuất bản bởi một trong những nguồn truyền thông được liệt kê trên Biểu đồ thiên vị truyền thông (Media Bias Chart).",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Tác giả của bài báo đưa ra những lập luận ngang nhau của cả hai quan điểm.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Kiểm tra tốc độ thích ứng của bài viết và số lượt thích trên mạng xã hội.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 30,
+    "question": "Sắp xếp các thuật ngữ bên phải phù hợp theo định nghĩa tương ứng bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Độc quyền sử dụng một tác phẩm cụ thể có liên quan đến hàng hóa hoặc dịch vụ trong thương mại",
+        "choices": [
+          "Patent",
+          "Trademark",
+          "Copyright"
+        ]
+      },
+      {
+        "text": "Độc quyền đối với các tác phẩm gốc",
+        "choices": [
+          "Patent",
+          "Trademark",
+          "Copyright"
+        ]
+      },
+      {
+        "text": "Độc quyền tạo, sử dụng hoặc bán một sáng chế cụ thể",
+        "choices": [
+          "Patent",
+          "Trademark",
+          "Copyright"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 31,
+    "question": "Bạn hãy cho biết, phát biểu sau đây là đúng hay sai: “Nhiều tài nguyên công cộng (Community Resource) có thể được truy cập trực tuyến.”",
+    "type": "single",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 32,
+    "question": "Người sử dụng lao động đã giao bạn phụ trách viết bản tin hàng tháng cho công ty của bạn. Cô ấy yêu cầu bạn mời tất cả nhân viên đóng góp ý kiến về những gì họ muốn đưa vào bản tin mỗi tháng. Công ty của bạn có hơn 200 nhân viên ở bốn vị trí địa lý. Các phương pháp khác nhau mà bạn có thể sử dụng để thu thập phản hồi từ các nhân viên khác là gì? Đối với mỗi phát biểu về việc thu thập câu trả lời, hãy chọn Đúng nếu phù hợp hoặc Sai nếu không phù hợp.&nbsp;",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Yêu cầu mọi người trên mạng xã hội đăng ý tưởng của họ.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Gửi một cuộc khảo sát qua Email cho tất cả nhân viên của công ty.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Viết blog về công việc mà người sử dụng lao động đã giao cho bạn.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Đăng biểu mẫu trên trang web của công ty và mời tất cả nhân viên hoàn thành biểu mẫu.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

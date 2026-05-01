@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "question": "Bạn hãy cho biết, loại giao tiếp nào là phù hợp nhất để giao tiếp khi cách nhiều múi giờ?",
+    "type": "single",
+    "options": [
+      "Thời gian thực (Real-time)",
+      "Đồng bộ (Synchronous)",
+      "Không đồng bộ (Asynchronous)",
+      "Đồng thời (Simultaneous)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Bạn hãy cho biết cách sử dụng tính năng trò chuyện (Chat) trong tình huống nào sau đây là phù hợp nhất trong hội thảo trên Web (Webinar)?",
+    "type": "single",
+    "options": [
+      "Chèn kiến thức để thêm vào bài thuyết trình",
+      "Nhận xét về bài thuyết trình",
+      "Đặt câu hỏi khi có thời gian thích hợp",
+      "Bắt chuyện với đồng nghiệp"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Bạn hãy cho biết khi sử dụng tất cả chữ in hoa trong một thư điện tử (Email) sẽ truyền đạt điều gì?",
+    "type": "single",
+    "options": [
+      "Nhấn mạnh",
+      "Tầm quan trọng",
+      "Khẩn cấp",
+      "La hét"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Một người dùng nhận được cuộc gọi điện thoại khi đang họp. Quy trình hành động tốt nhất mà người dùng thực hiện nếu họ phải thực hiện cuộc gọi là gì?",
+    "type": "single",
+    "options": [
+      "Di chuyển cách xa những người khác 100–200 feet",
+      "Rời khỏi phòng họp",
+      "Trả lời điện thoại",
+      "Di chuyển đến một góc của căn phòng"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Bạn hãy cho biết, nếu một người dùng muốn gửi tin nhắn tức thời cho đồng nghiệp, nhưng trạng thái tài khoản của đồng nghiệp đang không khả dụng (Unavailable) thì cách nào sau đây là tốt nhất để người dùng có thể sử dụng?",
+    "type": "single",
+    "options": [
+      "Chờ cho đến khi tài khoản của đồng nghiệp khả dụng",
+      "Cứ gửi tin nhắn",
+      "Gọi điện cho đồng nghiệp",
+      "Email cho đồng nghiệp"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Khi cần gửi một thư điện tử (Email) đến một hoặc nhiều người nhận, nhưng họ không phải là người nhận chính và đồng thời danh sách những người nhận này cũng cần được công khai với tất cả người nhận khác. Theo bạn thì những người nhận này cần được thêm vào trường nào sau đây?",
+    "type": "single",
+    "options": [
+      "Bc",
+      "To",
+      "Cc",
+      "Bcc"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Người dùng muốn xem các câu hỏi và câu trả lời phổ biến về Microsoft Outlook. Tùy chọn nào sau đây là phù hợp nhất để giúp người dùng có thể xem các câu hỏi và câu trả lời?",
+    "type": "single",
+    "options": [
+      "Community forum",
+      "Help",
+      "What's New?",
+      "Tell me"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Bạn muốn gửi Email cho một người nào đó, nhưng bạn muốn gửi một cách riêng tư để những người nhận Email khác không nhìn thấy địa chỉ Email của người này.Vậy theo bạn nên nhập địa chỉ Email của người này vào trường nào dưới đây?",
+    "type": "single",
+    "options": [
+      "Cc",
+      "Bcc",
+      "To",
+      "Bc"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Bạn hãy cho biết, bạn nên làm gì trước khi bắt đầu một cuộc hội thoại bằng loa ngoài?",
+    "type": "single",
+    "options": [
+      "Xin phép để tiếp tục cuộc trò chuyện trên loa ngoài",
+      "Yêu cầu đầu dây bên kia nói để kiểm tra âm lượng",
+      "Bật loa điện thoại và bắt đầu nói chuyện",
+      "Kiểm tra âm lượng trên thiết bị liên lạc đầu ra"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Bạn hãy cho biết, hai điều nào sau đây là quan trọng nhất cần tuân theo khi chuẩn bị trình bày tại hội nghị truyền hình? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Kiểm tra micro và loa",
+      "Dự đoán các câu hỏi có thể có của khán giả",
+      "Chuẩn bị một chương trình các hoạt động theo thứ tự cho hội nghị",
+      "Tìm một vị trí để thuyết trình sao cho chuyên nghiệp, có thể ở bên ngoài nhà của bạn"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Bạn hãy cho biết ứng dụng nào có thể tổ chức cả cuộc họp âm thanh và Video?",
+    "type": "single",
+    "options": [
+      "Box",
+      "Dropbox",
+      "Yammer",
+      "Microsoft Teams"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Thời gian tối đa được coi là thời gian cần thiết để trả lời Email trong một môi trường chuyên nghiệp là bao nhiêu?",
+    "type": "single",
+    "options": [
+      "15 phút",
+      "30 phút",
+      "24 giờ",
+      "48 giờ"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Bạn hãy cho biết dịch vụ nào sau đây có thể phát trực tuyến Video? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Amazon Prime",
+      "Spotify",
+      "Disney+",
+      "Sirius"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Hai hình thức giao tiếp nào phù hợp nhất cho những thông điệp ngắn gọn? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Tin nhắn văn bản (SMS)",
+      "Email",
+      "Tin nhắn tức thời (IM)",
+      "Hội nghị truyền hình (Video Conferencing)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Bạn hãy chọn hai phát biểu đúng khi lựa chọn địa điểm tổ chức hội nghị truyền hình? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Địa điểm nên có chỗ ngồi nơi có ánh sáng tốt",
+      "Địa điểm nên tránh xa các thiết bị di động",
+      "Địa điểm luôn phải ở trong một tòa nhà chuyên nghiệp",
+      "Địa điểm nên cố gắng tìm một khu vực có ít hoặc không có tiếng ồn xung quanh"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Bạn hãy cho biết hai tùy chọn nào sau đây là nhà cung cấp phát nhạc trực tuyến? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Vevo",
+      "Netflix",
+      "Spotify",
+      "Hulu"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

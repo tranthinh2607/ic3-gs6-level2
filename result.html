@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kết quả - IC3 GS6 Level 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container">
+            <h1>🏆 KẾT QUẢ BÀI LÀM 🏆</h1>
+            <div class="coin-counter" title="Số sao của bạn">
+                <span class="coin-icon">⭐</span> <span id="header-coin-amount">0</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-main container result-main">
+        <div class="result-card">
+            <h2 id="result-title">Hoàn thành bài kiểm tra!</h2>
+            
+            <div class="score-circle">
+                <span id="score-text">0/0</span>
+            </div>
+            
+            <div class="result-message" id="result-message">
+                Tuyệt vời! Hãy tiếp tục phát huy nhé!
+            </div>
+
+            <div class="result-actions">
+                <button class="btn btn-secondary" onclick="window.location.href='index.html'">Về Trang Chủ</button>
+                <button class="btn btn-primary" onclick="window.location.href='review.html'">Xem Lại Đáp Án</button>
+                <button class="btn btn-success" onclick="retryQuiz()">Làm Lại Bài Này</button>
+            </div>
+            <div id="minigame-container" style="display: none; text-align: center;">
+                <div class="minigame-card" onclick="window.location.href='minigame.html'">
+                    🎮 Chơi Mini-game Xả Hơi 🎮
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            renderResult();
+        });
+    </script>
+</body>
+</html>

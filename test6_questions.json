@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "question": "Bạn hãy cho biết, tính năng nào được sử dụng để tự động hoá các quy trình trong Microsoft Word?",
+    "type": "single",
+    "options": [
+      "Script",
+      "Macro",
+      "Module",
+      "Playbook"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Bạn tạo một tài liệu dài có nhiều phần nội dung. Bạn chèn tiêu đề vào phần đầu của mỗi phần nội dung. Tùy chọn nào sau đây là lý do mà bạn nên định dạng Style? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Để bạn có thể tạo mục lục tự động cho tài liệu.",
+      "Để bạn có thể đưa thông tin giống nhau (như số trang) vào mọi trang.",
+      "Để áp dụng định dạng nhất quán cho từng cấp của văn bản tiêu đề.",
+      "Để kích hoạt các quyền duy nhất cho từng phần."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Sindi quay video cho một dự án của trường học. Cô ấy chỉ muốn sử dụng một số phần của video. Cô ấy quyết định chỉnh sửa video. Nối từng kỹ thuật chỉnh sửa video cơ bản với định nghĩa tương ứng.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nối hai clip",
+        "choices": [
+          "Cắt xén (Crop)",
+          "Ghép (Splice)",
+          "Cắt tỉa (Trim)",
+          "Phân tách (Split)"
+        ]
+      },
+      {
+        "text": "Cắt clip thành hai phần",
+        "choices": [
+          "Cắt xén (Crop)",
+          "Ghép (Splice)",
+          "Cắt tỉa (Trim)",
+          "Phân tách (Split)"
+        ]
+      },
+      {
+        "text": "Xóa phần đầu hoặc phần cuối",
+        "choices": [
+          "Cắt xén (Crop)",
+          "Ghép (Splice)",
+          "Cắt tỉa (Trim)",
+          "Phân tách (Split)"
+        ]
+      },
+      {
+        "text": "Ẩn các phần của khung hình",
+        "choices": [
+          "Cắt xén (Crop)",
+          "Ghép (Splice)",
+          "Cắt tỉa (Trim)",
+          "Phân tách (Split)"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Với mỗi phát biểu về Macro trong một trang tính Excel, hãy chọn Đúng hoặc Sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bạn có thể tạo một Macro bằng cách ghi lại một loạt lệnh, nhấn phím và bấm chuột.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Mỗi Macro được lưu trữ thành một tập tin văn bản.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Macro là chuỗi sự kiện có thể được phát lại, giúp thực hiện các tác vụ lặp lại.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Bạn có thể tạo ra Macro bằng cách viết lệnh trong trình soạn thảo lệnh.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Bạn đang viết một bài nghiên cứu về nai ở Bắc âu. Khoảng 30 phút một lần, bạn lưu một phiên bản mới của tài liệu để theo dõi các thay đổi của mình. Tùy chọn nào sau đây thể hiện quy ước đặt tên tập tin tốt?",
+    "type": "single",
+    "options": [
+      "elk.docx elk&nbsp; &nbsp; &nbsp; &nbsp;copy.docx&nbsp; &nbsp; &nbsp; &nbsp;elk draft.docx",
+      "myelk.docx&nbsp; &nbsp; &nbsp; &nbsp; newelk.docx&nbsp; &nbsp; &nbsp; &nbsp;elk.docx",
+      "elk_original.docx&nbsp; &nbsp; &nbsp; &nbsp;elk_mod.docx&nbsp; &nbsp; &nbsp; &nbsp;elk_changed.docx",
+      "elk_draft1.docx&nbsp; &nbsp; &nbsp; &nbsp;elk_draft2.docx&nbsp; &nbsp; &nbsp; &nbsp;elk_FINAL.docx"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Hai phương pháp nào sau đây được sử dụng để xem xét và cung cấp phản hồi cho đồng nghiệp? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Chú thích (Footnotes)",
+      "Trích dẫn (Citations)",
+      "Theo dõi thay đổi (Track Changes)",
+      "Bình luận (Comments)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Quản lý của bạn yêu cầu bạn bảo vệ tất cả các tập tin của mình bằng mật khẩu và lưu trữ những tập tin bạn không thể bảo vệ trên ổ đĩa mạng. Bạn phải di chuyển tập tin nào vào ổ đĩa mạng?",
+    "type": "single",
+    "options": [
+      "MyFile.ppt",
+      "MyFile.pdf",
+      "MyFile.txt",
+      "MyFile.docx"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Một người bạn đã yêu cầu bạn cắt bỏ hình ảnh của họ ở bên cạnh một bức ảnh trước khi bạn đăng bức ảnh lên mạng xã hội. Bạn khởi chạy phần mềm chỉnh sửa ảnh của mình và tải ảnh đó vào phần mềm. Tính năng nào sau đây trong phần mềm chỉnh sửa ảnh sẽ cắt bỏ những phần không mong muốn của hình ảnh?",
+    "type": "single",
+    "options": [
+      "Erase",
+      "Trim",
+      "Crop",
+      "Cut"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Kết hợp từng chức năng với các phím của bàn phím. Kéo các mục ở cột bên phải sang cột bên trái tương ứng.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Tạo thụt lề",
+        "choices": [
+          "Tab",
+          "PrtScn",
+          "Caps Lock",
+          "Shift+2"
+        ]
+      },
+      {
+        "text": "Chụp ảnh màn hình",
+        "choices": [
+          "Tab",
+          "PrtScn",
+          "Caps Lock",
+          "Shift+2"
+        ]
+      },
+      {
+        "text": "Chèn ký hiệu @",
+        "choices": [
+          "Tab",
+          "PrtScn",
+          "Caps Lock",
+          "Shift+2"
+        ]
+      },
+      {
+        "text": "Làm cho mỗi chữ cái viết hoa",
+        "choices": [
+          "Tab",
+          "PrtScn",
+          "Caps Lock",
+          "Shift+2"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Bước đầu tiên để tùy chỉnh thông tin cho một đối tượng nhất định là gì?",
+    "type": "single",
+    "options": [
+      "Chuẩn bị phần mở đầu và phần kết luận.",
+      "Cá nhân hóa tin nhắn của bạn.",
+      "Xác định đối tượng mục tiêu của bạn.",
+      "Thiết lập mục tiêu giao tiếp."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Giấy phép Creative Commons nào cho phép sử dụng tác phẩm gốc nhưng không được sửa đổi mà không có sự cho phép của chủ sở hữu?",
+    "type": "single",
+    "options": [
+      "NonCommercial",
+      "NoDerivatives",
+      "ShareAlike",
+      "Attribution"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Bạn hãy cho biết cần phải thực hiện điều nào sau đây trước khi một tài liệu có thể đồng tác giả (Coauthor) bởi nhiều người dùng?",
+    "type": "single",
+    "options": [
+      "Nó phải được theo dõi",
+      "Nó phải được xem xét",
+      "Nó phải được chia sẻ",
+      "Nó phải được xuất bản trực tuyến"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Bạn cần thay Hình ảnh 1 thành Hình ảnh 2 bằng cách:\r\n• Xóa hình tròn ở bên trái của ảnh.\r\n• Chuyển ảnh từ có màu thành đơn sắc.\r\nBạn nên sử dụng hai công cụ chỉnh sửa ảnh nào? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Phơi sáng (Exposure)",
+      "Lọc (Filter)",
+      "Cắt tỉa (Trim)",
+      "Cắt xén (Crop)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này.",
+    "images": [
+      "https://elearning.mindnext.vn/pluginfile.php/57774/question/questiontext/4207331/13/17749/image1.png"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Mục đích chính của việc lập phiên bản tập tin là gì?",
+    "type": "single",
+    "options": [
+      "Để cho phép người dùng khôi phục các bản sao trước đó của tập tin.",
+      "Để xác định xem tập tin là bản nháp hay là bản phát hành tạm thời (chưa phải bản cuối).",
+      "Để xác định ngày tập tin được tạo.",
+      "Để cho phép nhiều người dùng cùng tác trên cùng nội dung tập tin."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Bạn hãy quan sát hình ảnh bên dưới và cho biết, tùy chọn nào sau đây được sử dụng tính năng Co-authoring trên tập tin hiện tại?",
+    "type": "single",
+    "options": [
+      "Thẻ Review",
+      "Thẻ File",
+      "Thẻ References",
+      "Share"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này.",
+    "images": [
+      "https://elearning.mindnext.vn/pluginfile.php/57774/question/questiontext/4207331/15/14157/image2.png"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Bạn đang chuẩn bị bố cục cho một bài thuyết trình PowerPoint do giáo viên của bạn chỉ định. Bạn sẽ được chấm điểm về sự thống nhất về mặt trực quan. Bạn nên tuân theo hai nguyên tắc thống nhất về mặt trực quan nào sau đây để tạo cho bài trình chiếu của mình một cái nhìn chuyên nghiệp? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Tuân theo các nguyên tắc thiết kế về sự liên kết và lặp lại.",
+      "Nhất quán trên tất cả các yếu tố trình bày, chẳng hạn như phông chữ và màu sắc.",
+      "Sử dụng một phông chữ và màu sắc khác nhau ở mỗi bên.",
+      "Áp dụng cùng một bố cục trên mọi trang chiếu."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Bạn của bạn nhờ bạn xem lại bài trình bày PowerPoint mà người đó đã tạo cho lớp chuyên Sử của họ. Bạn thấy bố cục bài trình bày lộn xộn và vô tổ chức. Đâu là hai nguyên tắc thông nhất về hình ảnh mà bạn nên khuyên bạn của mình tuân thủ? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Căn giữa văn bản và các phần tử hình ảnh trên mỗi trang chiếu.",
+      "Duy trì tính nhất quán trên tất cả các phần tử trình bày.",
+      "Áp dụng các nguyên tắc thiết kế về sự lặp lại, liên kết và xa-gần.",
+      "Sử dụng nhiều loại phông chữ, màu sắc và hình nền trên mỗi trang chiếu."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 18,
+    "question": "Ghép nối phím tắt với chức năng của nó. Hãy chọn phím tắt phù hợp với chức năng của nó ở bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Windows Ctrl+X hay MacOS Cmd+X",
+        "choices": [
+          "Copy",
+          "Paste",
+          "Cut",
+          "Select All Text"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+A hay MacOS Cmd+A",
+        "choices": [
+          "Copy",
+          "Paste",
+          "Cut",
+          "Select All Text"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+V hay MacOS Cmd+V",
+        "choices": [
+          "Copy",
+          "Paste",
+          "Cut",
+          "Select All Text"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+C hay MacOS Cmd+C",
+        "choices": [
+          "Copy",
+          "Paste",
+          "Cut",
+          "Select All Text"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Nối từng hành động với phím tắt để thực hiện hành động tương ứng trong tài liệu. Hãy ghép các phím tắt bên phải phù hợp với từng hành động bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Cắt nội dung vào bảng tạm",
+        "choices": [
+          "Ctrl+X (Cmd+X)",
+          "Ctrl+V (Cmd+V)",
+          "Ctrl+P (Cmd+P)",
+          "Ctrl+Z (Cmd+Z)"
+        ]
+      },
+      {
+        "text": "Hoàn tác",
+        "choices": [
+          "Ctrl+X (Cmd+X)",
+          "Ctrl+V (Cmd+V)",
+          "Ctrl+P (Cmd+P)",
+          "Ctrl+Z (Cmd+Z)"
+        ]
+      },
+      {
+        "text": "In",
+        "choices": [
+          "Ctrl+X (Cmd+X)",
+          "Ctrl+V (Cmd+V)",
+          "Ctrl+P (Cmd+P)",
+          "Ctrl+Z (Cmd+Z)"
+        ]
+      },
+      {
+        "text": "Dán nội dung của bảng tạm",
+        "choices": [
+          "Ctrl+X (Cmd+X)",
+          "Ctrl+V (Cmd+V)",
+          "Ctrl+P (Cmd+P)",
+          "Ctrl+Z (Cmd+Z)"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Bạn đang sử dụng chương trình phần mềm mới để tạo bài trình chiếu. Bạn cần sử dụng một chức năng không quen thuộc. Với mỗi tài nguyên, hãy chọn Có nếu bạn có thể sử dụng nó để tìm kiếm sự hỗ trợ hoặc Không nếu không thể.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Diễn đàn trực tuyến dành riêng cho phần mềm",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Tính năng Trợ giúp (Help) trong chương trình bày",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Hướng dẫn cài đặt phần mềm",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      },
+      {
+        "text": "Trang LinkedIn dành cho công ty phần mềm",
+        "choices": [
+          "Không",
+          "Có"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Xác định các tùy chọn bảo vệ tập tin bằng mật khẩu.Đối với mỗi câu lệnh, hãy chọn Đúng nếu nó là một tùy chọn hoặc Sai nếu nó không phải là một tùy chọn.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Trong Adobe, bạn có thể bảo vệ bằng mật khẩu khi mở tài liệu .pdf.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Trong Windows 10, ở các phiên bản mới hơn bạn có thể bảo vệ các tập tin và thư mục riêng lẻ bằng mật khẩu.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Trong Microsoft Excel, bạn có các lựa chọn để bảo vệ bằng mật khẩu chỉ một số phần của sổ làm việc học toàn bộ sổ làm việc.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Tùy chọn nào sau đây là đúng về mã hóa? (Chọn hai)",
+    "type": "multiple",
+    "options": [
+      "Tài liệu được mã hóa yêu cầu mật khẩu hoặc khóa kỹ thuật số trước khi có thể mở được.",
+      "Nội dung của một tập tin được mã hóa chỉ có thể được đọc bởi người có khóa mã hóa.",
+      "Tài liệu được mã hóa là các tập tin được định kèm với chứng chỉ kỹ thuật số.",
+      "Tập tin được mã hóa là tập tin không thể truyền qua Internet."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Bạn đang chuẩn bị một bài trình chiếu slide cho lớp Lịch sử Hoa Kỳ của mình. Bạn đã được chỉ định một nhân vật lịch sử để báo cáo với các bạn cùng lớp của mình. Thứ tự các bước được khuyến nghị bạn nên thực hiện để tạo bài trình chiếu slide là gì? Để trả lời, hãy chọn các bước bên phải phù hợp với các mục bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Thêm đồ họa, biểu đồ và hiệu ứng cho các đối tượng (Animations)",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Tạo trang Tiêu đề",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Tạo một dàn ý có cấu trúc",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Áp dụng quá trình chuyển đổi (Transitions)",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Áp dụng bố cục trang chiếu (Slide Layouts) cho nội dung",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Chọn một thiết kế",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      },
+      {
+        "text": "Nhập dàn ý vào bản trình chiếu",
+        "choices": [
+          "Bước 6",
+          "Bước 1",
+          "Bước 3",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 7"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Bạn viết một bài luận. Một người bạn cùng lớp nhận xét bài luận này và gợi ý sửa chữa như hình. Bạn cần thực hiện các sửa chữa vĩnh viễn trong tài liệu của mình. Bạn nên sử dụng nút nào? Để trả lời, hãy chọn nút lệnh phù hợp.",
+    "type": "single",
+    "options": [
+      "Vị trí 4",
+      "Vị trí 3",
+      "Vị trí 2",
+      "Vị trí 1"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này.",
+    "images": [
+      "https://elearning.mindnext.vn/pluginfile.php/57774/question/questiontext/4207331/24/14177/image3.png"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Bạn muốn thực hiện bảo vệ bằng mật khẩu trên tập tin Microsoft Office của mình. Thứ tự các bước bạn nên thực hiện để bảo vệ bằng mật khẩu tập tin Word, Excel hoặc PowerPoint là gì? Hãy chọn các bước bên phải phù hợp với hành động bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nhập mật khẩu hai lần",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      },
+      {
+        "text": "Chọn nút Protect",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      },
+      {
+        "text": "Mở bảng Info",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      },
+      {
+        "text": "Bấm OK",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      },
+      {
+        "text": "Chọn Tab File",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      },
+      {
+        "text": "Chọn Encrypt with Password",
+        "choices": [
+          "Bước 3",
+          "Bước 6",
+          "Bước 2",
+          "Bước 5",
+          "Bước 4",
+          "Bước 1"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 26,
+    "question": "Ghép từng phần tử cửa sổ làm việc với định nghĩa tương ứng. Hãy chọn nội dung bên phải sao cho phù hợp với thuật ngữ bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Chuỗi ô dọc, được gắn nhãn bằng chữ cái",
+        "choices": [
+          "Thanh công thức (Formula Bar)",
+          "Tab trang tính (Sheet Tab)",
+          "Cột (Column)",
+          "Thanh trạng thái (Status Bar)"
+        ]
+      },
+      {
+        "text": "Khu vực xác định và cho phép bạn chuyển đổi giữa các trang tính trong tập tin",
+        "choices": [
+          "Thanh công thức (Formula Bar)",
+          "Tab trang tính (Sheet Tab)",
+          "Cột (Column)",
+          "Thanh trạng thái (Status Bar)"
+        ]
+      },
+      {
+        "text": "Khu vực để bạn nhập dữ liệu và phương trình",
+        "choices": [
+          "Thanh công thức (Formula Bar)",
+          "Tab trang tính (Sheet Tab)",
+          "Cột (Column)",
+          "Thanh trạng thái (Status Bar)"
+        ]
+      },
+      {
+        "text": "Khu vực hiển thị thông tin về trang tính, nội dung trang tính và chương trình",
+        "choices": [
+          "Thanh công thức (Formula Bar)",
+          "Tab trang tính (Sheet Tab)",
+          "Cột (Column)",
+          "Thanh trạng thái (Status Bar)"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 27,
+    "question": "Khi sử dụng phần mềm xử lý văn bản, bạn cần ghi nhớ các phím tắt. Hãy chọn Đúng hoặc Sai với mỗi phát biểu về phím tắt sau đây sau đây:",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Windows Ctrl+A hay MacOS Cmd+A = Select All Text",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+P hay MacOS Cmd+P = Paste",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+X hay MacOS Cmd+X = Cut",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Windows Ctrl+E hay MacOS Cmd+E = End of Document",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 28,
+    "question": "Bạn đang chuẩn bị một sổ tính để giữ số liệu thống kê về người chơi cho đội bóng mềm của mình. Đối với mỗi trò chơi, bạn muốn ghi lại số lượt truy cập, số lượt chạy, và các lỗi cho mỗi người chơi. Thứ tự các bước được khuyến nghị mà bạn nên thực hiện để chuẩn bị sổ tính này là gì? Để trả lời, hãy chọn từng bước ở cột bên phải sao cho phù hợp với các nội dung bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Điền tên vào cột Người chơi.",
+        "choices": [
+          "Bước 3",
+          "Bước 4",
+          "Bước 1",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Tạo tiêu đề cột cho Người chơi, Lượt truy cập, Lượt chạy và Lỗi.",
+        "choices": [
+          "Bước 3",
+          "Bước 4",
+          "Bước 1",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Tạo một trang tính.",
+        "choices": [
+          "Bước 3",
+          "Bước 4",
+          "Bước 1",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Sao chép trang tính cho mỗi trò chơi",
+        "choices": [
+          "Bước 3",
+          "Bước 4",
+          "Bước 1",
+          "Bước 2"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 29,
+    "question": "Bạn đã tạo một tài liệu trong phần mềm Microsoft Word và đã quyết định chia sẻ nó với nhóm của bạn để họ có thể chỉnh sửa nó. Bạn muốn theo dõi bất kỳ thay đổi nào họ thực hiện đối với tài liệu. Thứ tự các bước được khuyến nghị mà bạn nên thực hiện để theo dõi các thay đổi trong tài liệu là gì? Để trả lời, hãy chọn các bước bên phải sao cho phù hợp với từng hành động bên trái.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Từ Tab Review, hãy bật Track Changes",
+        "choices": [
+          "Bước 3",
+          "Bước 1",
+          "Bước 4",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Chọn cách bạn muốn Đánh dấu (Markup) được hiển thị.",
+        "choices": [
+          "Bước 3",
+          "Bước 1",
+          "Bước 4",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Chọn Accept (đồng ý) hay Reject (không đồng ý) với các thay đổi.",
+        "choices": [
+          "Bước 3",
+          "Bước 1",
+          "Bước 4",
+          "Bước 2"
+        ]
+      },
+      {
+        "text": "Lưu tài liệu và chia sẻ nó với nhóm của bạn",
+        "choices": [
+          "Bước 3",
+          "Bước 1",
+          "Bước 4",
+          "Bước 2"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 30,
+    "question": "Kết hợp từng chức năng với các phím của bàn phím. Kéo các mục ở cột bên phải sang cột bên trái tương ứng.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Xóa ký tự ở bên phải",
+        "choices": [
+          "Backspace",
+          "Shift",
+          "Fn+F1",
+          "Delete"
+        ]
+      },
+      {
+        "text": "Khởi chạy Trợ giúp (Help)",
+        "choices": [
+          "Backspace",
+          "Shift",
+          "Fn+F1",
+          "Delete"
+        ]
+      },
+      {
+        "text": "Chuyển đổi một phím sang ký tự phía trên",
+        "choices": [
+          "Backspace",
+          "Shift",
+          "Fn+F1",
+          "Delete"
+        ]
+      },
+      {
+        "text": "Xóa ký tự bên trái",
+        "choices": [
+          "Backspace",
+          "Shift",
+          "Fn+F1",
+          "Delete"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 31,
+    "question": "Các hạn chế chỉnh sửa trong Microsoft Word là gì?",
+    "type": "single",
+    "options": [
+      "Giới hạn các thay đổi đối với một phần cụ thể của tài liệu.",
+      "Bảo vệ tài liệu khỏi bị mở mà không có mật khẩu.",
+      "Hạn chế các tính năng đang hoạt động trong một ứng dụng thông qua cấp phép.",
+      "Khóa việc sử dụng các phím cụ thể trên bàn phím của bạn."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 32,
+    "question": "Trong chỉnh sửa Video, thuật ngữ để loại bỏ phần đầu hoặc phần cuối của video là gì?",
+    "type": "single",
+    "options": [
+      "Crop",
+      "Trim",
+      "Cut",
+      "Clip"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

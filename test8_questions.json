@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "question": "Khi tương tác với các thành viên của cộng đồng kỹ thuật số, điều quan trọng nhất bạn cần nhớ là gì?",
+    "type": "single",
+    "options": [
+      "Tránh đăng hình ảnh",
+      "Sử dụng tên đầy đủ của bạn",
+      "Không sử dụng biểu tượng cảm xúc",
+      "Đối xử lịch sự với người khác như cách bạn muốn được đối xử"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Tùy chọn nào sau đây là công cụ giao tiếp kỹ thuật số không đồng bộ? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Phone Call",
+      "Email",
+      "Video Conference",
+      "Text Message"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Một sinh viên sắp lỡ hẹn phỏng vấn thực tập. Anh ấy gửi Email dưới đây cho người phỏng vấn:\r\nKính gửi bà Smith,\r\nTội bị bận vào giờ phỏng vấn rồi, chắc là phải dời lịch thôi HY VỌNG ĐIỀU NÀY KHÔNG LÀM PHIỀN BÀ!!!\r\nCảm ơn nha!!!\r\nThành phần nào của Email trên thể hiện các chuẩn mực đạo đức phù hợp khi gửi Email?",
+    "type": "single",
+    "options": [
+      "Ngữ pháp",
+      "Quy tắc viết hoa",
+      "Lời chào",
+      "Dấu câu"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Bạn tìm thấy một bài đăng trên mạng xã hội chia sẻ thông tin y tế không chính xác và gây hiểu lầm. Bạn quyết định trả lời bài viết này. Với mỗi phản hồi, hãy chọn Có nếu việc này tuân thủ các chuẩn mực đạo đức thích hợp trong môi trường số hoặc Không nếu không phải.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "\"Rất nhiều bác sĩ, bao gồm cả Jane Smith từ Harvard Medical School đều không đồng ý\".",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "\"Rất khó để tìm hiểu tất cả mọi thứ, nhưng có rất nhiều nguồn để tìm hiểu về vấn đề này\".",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "\"Đây là việc làm sai lầm và khiến bạn trông thật ngờ nghệch! Rõ ràng là bạn không tìm hiểu từ Harvard Medical School\".",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      },
+      {
+        "text": "\"SAI RỒI! Bạn có TÌM HIỂU KỸ trước khi đăng bài này không?\"",
+        "choices": [
+          "Có",
+          "Không"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Hai phương thức giao tiếp nào không đồng bộ? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Gọi điện thoại",
+      "Tham gia hội thảo video",
+      "Gửi tin nhắn văn bản",
+      "Gửi email"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Xác định các trường của một Email. Để trả lời, em hãy chuyển từng trường bên phải sang chức năng của nó ở bên trái sao cho phù hợp nhất.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Gửi bản sao đến những người nhận ẩn danh khác",
+        "choices": [
+          "Bcc",
+          "Cc",
+          "Low-Normal-High",
+          "Body",
+          "Subject"
+        ]
+      },
+      {
+        "text": "Phần nội dung Email",
+        "choices": [
+          "Bcc",
+          "Cc",
+          "Low-Normal-High",
+          "Body",
+          "Subject"
+        ]
+      },
+      {
+        "text": "Danh sách những người nhận được biết khác",
+        "choices": [
+          "Bcc",
+          "Cc",
+          "Low-Normal-High",
+          "Body",
+          "Subject"
+        ]
+      },
+      {
+        "text": "Các đánh dấu mức độ quan trọng của thư",
+        "choices": [
+          "Bcc",
+          "Cc",
+          "Low-Normal-High",
+          "Body",
+          "Subject"
+        ]
+      },
+      {
+        "text": "Chủ đề của Email",
+        "choices": [
+          "Bcc",
+          "Cc",
+          "Low-Normal-High",
+          "Body",
+          "Subject"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Bạn tham gia nhóm gồm 10 sinh viên đang thực hiện một dự án lớn trong lớp học về sức khỏe. Nhóm của bạn sẽ thảo luận thông qua công cụ hội thảo video. Bạn nên thực hiện hai hành động nào trước khi tham gia hội thảo video lần đầu tiên? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Chuẩn bị sẵn đồ ăn nhẹ phòng khi đói.",
+      "Đặt camera của bạn ngang tầm mắt.",
+      "Kiểm tra trước công nghệ hội thảo video.",
+      "Đặt ánh sáng phía sau bạn để bạn có bóng của bạn."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Hiệu trưởng của một trường đang soạn email gửi tới phụ huynh học sinh, có nội dung về tầm quan trọng của việc tất cả học sinh đi học đúng giờ. Ông ấy cần sử dụng phương pháp giao tiếp phù hợp và hiệu quả nhất. Thầy Hiệu trưởng phải làm gì?",
+    "type": "single",
+    "options": [
+      "Gửi thư đến một nhóm liên hệ chỉ bao gồm địa chỉ email của học sinh",
+      "Gửi thư đến tất cả phụ huynh bằng cách sử dụng trường Bcc",
+      "Gửi thư đến tất cả phụ huynh bằng cách sử dụng trường Cc",
+      "Gửi thư đến phụ huynh của từng học sinh đi muộn"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Em hãy ghép nối từng tình huống ở bên phải với từng phương thức giao tiếp ở bên trái sao cho phù hợp nhất.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Chia sẻ suy nghĩ hàng ngày của bạn về các sự kiện lên nhật ký trực tuyến.",
+        "choices": [
+          "Text message",
+          "Forum post",
+          "Email message",
+          "Blog post"
+        ]
+      },
+      {
+        "text": "Cho anh của bạn biết nơi sẽ đón bạn.",
+        "choices": [
+          "Text message",
+          "Forum post",
+          "Email message",
+          "Blog post"
+        ]
+      },
+      {
+        "text": "Yêu cầu hoàn lại tiền từ một công ty.",
+        "choices": [
+          "Text message",
+          "Forum post",
+          "Email message",
+          "Blog post"
+        ]
+      },
+      {
+        "text": "Đặt câu hỏi cho một nhóm để thảo luận về trò chơi.",
+        "choices": [
+          "Text message",
+          "Forum post",
+          "Email message",
+          "Blog post"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Bạn hãy cho biết ứng dụng nào sau đây có khả năng tạo cuộc họp mặt trực tuyến?",
+    "type": "single",
+    "options": [
+      "Zoom",
+      "Google Drive",
+      "OneDrive",
+      "Dropbox"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Hai nhận định nào là đúng về một người nhạy cảm với sự đa dạng văn hóa?",
+    "type": "multiple",
+    "options": [
+      "Tất cả các nền văn hóa đều cảm thấy thoải mái với hội nghị truyền hình.",
+      "Người ta nên nghiên cứu các chuẩn mực văn hóa cho các khách hàng quốc tế mà họ sẽ gặp.",
+      "Người ta nên xem liệu có cần thông dịch viên cho cuộc họp giữa các bên với nhiều ngôn ngữ mẹ đẻ hay không.",
+      "Giao tiếp đồng bộ có thể tốt hơn một cuộc họp trực tuyến."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Bạn hãy cho biết, hình thức giao tiếp nào sau đây là phù hợp nhất với những tin nhắn dài và để gửi tập tin?",
+    "type": "single",
+    "options": [
+      "Hội nghị truyền hình (Video conferencing)",
+      "Tin nhắn tức thời (IM)",
+      "Thư điện tử (Email)",
+      "Tin nhắn ngắn (SMS)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Loại tài khoản nào được yêu cầu để đăng các mục trong diễn đàn cộng đồng Microsoft?",
+    "type": "single",
+    "options": [
+      "Domain",
+      "Microsoft",
+      "Azure",
+      "Windows"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Bạn hãy cho biết ứng dụng nào có thể tổ chức cả cuộc họp âm thanh và Video?",
+    "type": "single",
+    "options": [
+      "Box",
+      "Microsoft Teams",
+      "Yammer",
+      "Dropbox"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Khớp dich vụ truyền thông trực tuyến với ví dụ của nó.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Thiết bị phát trực tuyến (Streaming Devices)",
+        "choices": [
+          "Netflix, Disney+, Hulu, Amazon Prime",
+          "Spotify, Kodi, Web Browsers",
+          "Roku, Amazon Firestick, Apple TV, Chromecast"
+        ]
+      },
+      {
+        "text": "Truyền trực tuyến phim (Streaming Movies)",
+        "choices": [
+          "Netflix, Disney+, Hulu, Amazon Prime",
+          "Spotify, Kodi, Web Browsers",
+          "Roku, Amazon Firestick, Apple TV, Chromecast"
+        ]
+      },
+      {
+        "text": "Trình phát đa phương tiện (Media Players)",
+        "choices": [
+          "Netflix, Disney+, Hulu, Amazon Prime",
+          "Spotify, Kodi, Web Browsers",
+          "Roku, Amazon Firestick, Apple TV, Chromecast"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Một sinh viên sắp lỡ hẹn buổi phỏng vấn. Sinh viên đó gửi Email dưới đây cho người phỏng vấn. Thành phần nào của Email thể hiện chuẩn mực đạo đức phù hợp khi gửi Email?\r\nKính gửi ông John,\r\nTội có việc bận đột xuất vào giờ phỏng vấn, có lẽ cần phải dời lịch thôi HY VỌNG ĐIỀU NÀY KHÔNG LÀM PHIỀN ÔNG!!!\r\nThanks ông nhiều nha!!!",
+    "type": "single",
+    "options": [
+      "Dấu câu",
+      "Ngữ pháp",
+      "Quy tắc viết hoa",
+      "Lời chào"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Mục đích của trường Bcc trong Email là gì?",
+    "type": "single",
+    "options": [
+      "Để chỉ ra rằng đây là tin nhắn cá nhân.",
+      "Để thu thập thông tin về ai đó mà họ không biết.",
+      "Để chỉ ra rằng việc trả lời là không bắt buộc.",
+      "Để giữ bí mật địa chỉ Email của nhiều người nhận với nhau."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 18,
+    "question": "Lớp của bạn đang họp qua hình thức hội thảo video. Bạn và ba sinh viên khác sẽ thay phiên nhau trình bày thông tin trên camera và từng người chia sẻ màn hình riêng của mình. Ba hành động bạn cần thực hiện trước khi thuyết trình? (Chọn 3)",
+    "type": "multiple",
+    "options": [
+      "Đảm bảo rằng hình ảnh trong bài thuyết trình của bạn phù hợp với trường học.",
+      "Kiểm tra và luyện tập sử dụng tính năng chia sẻ màn hình.",
+      "Luyện tập bài thuyết trình của mình trong khi những người khác đang thuyết trình.",
+      "Cho các sinh viên khác biết rằng họ có thể đồng thời chia sẻ màn hình.",
+      "Trình bày ở ngoài trời để có ánh sáng tự nhiên.",
+      "Đóng bất kỳ chương trình và tab trình duyệt nào mà bạn không cần."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Bạn hãy cho biết, loại giao tiếp nào là phù hợp nhất để giao tiếp khi cách nhiều múi giờ?",
+    "type": "single",
+    "options": [
+      "Đồng bộ (Synchronous)",
+      "Đồng thời (Simultaneous)",
+      "Thời gian thực (Real-time)",
+      "Không đồng bộ (Asynchronous)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Bạn hãy cho biết khi sử dụng tất cả chữ in hoa trong một thư điện tử (Email) sẽ truyền đạt điều gì?",
+    "type": "single",
+    "options": [
+      "Tầm quan trọng",
+      "Nhấn mạnh",
+      "Khẩn cấp",
+      "La hét"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Một người dùng nhận được cuộc gọi điện thoại khi đang họp. Quy trình hành động tốt nhất mà người dùng thực hiện nếu họ phải thực hiện cuộc gọi là gì?",
+    "type": "single",
+    "options": [
+      "Trả lời điện thoại",
+      "Di chuyển đến một góc của căn phòng",
+      "Di chuyển cách xa những người khác 100-200 feet",
+      "Rời khỏi phòng họp"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Khi cần gửi một thư điện tử (Email) đến một hoặc nhiều người nhận, nhưng họ không phải là người nhận chính và đồng thời danh sách những người nhận này cũng cần được công khai với tất cả người nhận khác. Theo bạn thì những người nhận này cần được thêm vào trường nào sau đây?",
+    "type": "single",
+    "options": [
+      "To",
+      "Bcc",
+      "Cc",
+      "Bc"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Bạn muốn gửi Email cho một người nào đó, nhưng bạn muốn gửi một cách riêng tư để những người nhận Email khác không nhìn thấy địa chỉ Email của người này. Vậy theo bạn nên nhập địa chỉ Email của người này vào trường nào dưới đây?",
+    "type": "single",
+    "options": [
+      "Bcc",
+      "Cc",
+      "To",
+      "Bc"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Bạn hãy cho biết, bạn nên làm gì trước khi bắt đầu một cuộc hội thoại bằng loa ngoài?",
+    "type": "single",
+    "options": [
+      "Kiểm tra âm lượng trên thiết bị liên lạc đầu ra",
+      "Xin phép để tiếp tục cuộc trò chuyện trên loa ngoài",
+      "Bật loa điện thoại và bắt đầu nói chuyện",
+      "Yêu cầu đầu dây bên kia nói để kiểm tra âm lượng"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 25,
+    "question": "Ứng dụng nào là ví dụ về nền tảng cộng tác? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "GoToMeeting",
+      "Slack",
+      "Zoom",
+      "Office 365"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 26,
+    "question": "Bạn đang rà soát bản báo cáo do một người bạn cùng lớp viết bằng phương thức điện tử. Bạn nên sử dụng phương pháp nào trong tài liệu để đưa ra phản hồi mang tính xây dựng cho bạn học của mình?",
+    "type": "single",
+    "options": [
+      "Chú thích cuối trang (Footnotes)",
+      "Trích dẫn (Citations)",
+      "Hộp văn bản (Text boxes)",
+      "Chú thích (Comments)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]

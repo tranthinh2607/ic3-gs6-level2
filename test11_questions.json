@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "question": "Nên đặt màn hình ở đâu để tránh mỏi mắt khi gõ phím?",
+    "type": "single",
+    "options": [
+      "Cách nửa sải tay",
+      "Cách xa hai sải tay",
+      "Cách một bước chân",
+      "Cách một sải tay"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 2,
+    "question": "Cánh tay của một người nên đặt ở góc độ nào khi gõ bàn phím?",
+    "type": "single",
+    "options": [
+      "60 độ",
+      "90 độ",
+      "75 độ",
+      "30 độ"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 3,
+    "question": "Cổ tay của một người nên được đặt như thế nào khi đánh máy để tránh hội chứng ống cổ tay?",
+    "type": "single",
+    "options": [
+      "Đặt trên bàn",
+      "Đặt thẳng",
+      "Ở một góc 45 độ",
+      "Đặt trên bàn phím"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 4,
+    "question": "Những yếu tố nào được coi là tác động tiêu cực của FOMO? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Sự mất mát (Loss)",
+      "Trầm cảm (Depression)",
+      "Tài chính (Finances)",
+      "Sự cô đơn (Loneliness)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 5,
+    "question": "Bryce đang bị lo lắng và trầm cảm do hội chứng sợ bỏ lỡ (FOMO). Tùy chọn nào sau đây là triệu chứng hoặc ảnh hưởng của hội chứng (FOMO) (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Anh ấy lo lắng khi thuyết trình trước lớp.",
+      "Mỗi khi thích thú một hoạt động nào đó, anh ấy phải ngay lập tức cập nhật trạng thái của mình lên mạng.",
+      "Anh ấy lo lắng rằng điểm số của mình sẽ bị ảnh hưởng nếu anh ấy không hoàn thành bài tập về nhà.",
+      "Anh ấy cần hiểu tất cả những trò đùa mà bạn bè của anh ấy đăng trên mạng xã hội."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 6,
+    "question": "Đâu là hai ví dụ về hội chứng FOMO (sợ bỏ lỡ)? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Mua trước một bảng điều khiển trò chơi mới để đảm bảo rằng bạn không phải là người duy nhất không có khi sản phẩm được phát hành",
+      "Đe dọa chia sẻ những bức ảnh đáng xấu hổ nhằm kiểm soát hoặc tống tiền ai đó.",
+      "Bạn lo lắng khi phát hiện ra bạn bè của mình đang vui vẻ trên mạng xã hội mà không có bạn.",
+      "Gửi Virus, phần mềm gián điệp hoặc chương trình xâm nhập cho ai đó để theo dõi họ."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 7,
+    "question": "Bạn bè của bạn đang trêu chọc bạn. Họ nói rằng bạn có tất cả các triệu chứng của FOMO. Đối với mỗi tuyên bố về FOMO, hãy chọn Đúng nếu phát biểu là đúng hoặc Sai nếu phát biểu sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "FOMO là một chứng rối loạn do đeo khẩu trang trong khi sử dụng mạng xã hội.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "FOMO là \"Cảm giác bỏ lỡ\".",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Mặc dù FOMO không được coi là một rối loạn sức khỏe tâm thần, nó được gây ra bởi một nhóm cảm xúc rất thực và mang lại những tác động thực sự.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 8,
+    "question": "Một người mà bạn không biết kết bạn với bạn trên mạng xã hội và bắt đầu giao tiếp với bạn thông qua chức năng tin nhắn văn bản trên mạng xã hội.\r\nVới mỗi câu phát biểu, hãy chọn Đúng nếu đó là dấu hiệu cảnh báo lừa đảo công nghệ cao hoặc Sai nếu không phải.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Người đó có nhiều người theo dõi trên mạng xã hội.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Người đó yêu cầu bạn gửi tiền.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Người đó không muốn trò chuyện qua video.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 9,
+    "question": "Cơ quan của bạn cung cấp cho bạn một chiếc ghế có thể điều chỉnh độ cao. Bạn cần điều chỉnh ghế của mình để giúp ngăn ngừa chấn thương do căng thẳng thường xuyên (RSI).\r\nHãy chọn Đúng nếu phát biểu đó giúp ngăn ngừa RSI hoặc Sai nếu không.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Đầu gối của bạn cao hơn hông.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Cánh tay của bạn tạo thành một góc 90 độ với khuỷu tay.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Bàn chân của bạn đặt phẳng trên sàn hoặc chỗ để chân.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 10,
+    "question": "Với mỗi câu phát biểu về thanh toán kỹ thuật số, hãy chọn Đúng hoặc Sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Thẻ ghi nợ, thẻ tín dụng, thanh toán chuyển khoản qua ngân hàng và ví điện tử đều là các loại thanh toán kỹ thuật số.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Tiền mặt có thể được coi là một loại hình thanh toán kỹ thuật số.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Thanh toán kỹ thuật số diễn ra khi cả người thanh toán và người được thanh toán sử dụng các phương tiện điện tử để thực hiện và nhận thanh toán.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 11,
+    "question": "Công việc của bạn đòi hỏi bạn phải làm việc với máy tính nhiều giờ mỗi ngày. Bạn lo lắng rằng bạn sẽ bị mỏi mắt. Đối với mỗi hành động, hãy chọn Đúng nếu hành động đó gây mỏi mắt hoặc Sai nếu không.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Làm việc trong phòng tối.",
+        "choices": [
+          "Mỏi mắt",
+          "Không mỏi mắt"
+        ]
+      },
+      {
+        "text": "Thường xuyên thay đổi tiêu điểm của bạn từ màn hình máy tính sang một thứ gì đó cách xa bạn ít nhất sáu mét.",
+        "choices": [
+          "Mỏi mắt",
+          "Không mỏi mắt"
+        ]
+      },
+      {
+        "text": "Thường xuyên chớp mắt.",
+        "choices": [
+          "Mỏi mắt",
+          "Không mỏi mắt"
+        ]
+      },
+      {
+        "text": "Đặt màn hình sao cho cách bạn một khoảng bằng cánh tay và phần trên cùng của màn hình ngang tầm mắt của bạn.",
+        "choices": [
+          "Mỏi mắt",
+          "Không mỏi mắt"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 12,
+    "question": "Giải thích khi nào thì việc chặn truy cập camera là thích hợp và cần thiết. Hãy chọn Đúng hoặc Sai với mỗi phát biểu sau đây:",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Bạn là người tích cực tham gia một khóa học trực tuyến.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bất cứ lúc nào một ứng dụng yêu cầu quyền truy cập vào máy ảnh của bạn và không có lý do gì để cần nó.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bạn đang xem một cách thụ động một bài giảng trực tuyến với hàng trăm người xem khác.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 13,
+    "question": "Tùy chọn nào sau đây là ví dụ về catfishing? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Tạo một hồ sơ hư cấu trên một trang web hẹn hò.",
+      "Giả làm người khác trên mạng xã hội.",
+      "Lưu hành truyện cười và meme hài hước trực tuyến.",
+      "Đưa người dùng vào một cuộc tranh cãi trên các trang web truyền thông xã hội."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 14,
+    "question": "Mối quan tâm bảo mật chính của mua hàng trong ứng dụng là gì?",
+    "type": "single",
+    "options": [
+      "Hàng hóa sẽ không được vận chuyển đến đúng địa chỉ.",
+      "Trẻ em có quyền sử dụng điện thoại thông minh.",
+      "Các nhà phát triển ứng dụng ăn cắp thông tin thẻ tín dụng.",
+      "Không có lo ngại về bảo mật."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 15,
+    "question": "Một người nên tìm kiếm lời khuyên trước khi tham gia vào một thử thách trên Internet",
+    "type": "single",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 16,
+    "question": "Một người bị choáng ngợp bởi bắt nạt trên mạng có thể làm gì để chống lại tình hình? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Tìm kiếm sự trợ giúp từ một chuyên gia được đào tạo",
+      "Báo cáo lạm dụng cho những người có thẩm quyền",
+      "Phản ứng lại trên mạng",
+      "Bỏ qua bắt nạt trên mạng"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 17,
+    "question": "Quá trình giải mã (Encryption) sử dụng khóa cá nhân diễn ra dưới hình thức mã hóa nào?",
+    "type": "single",
+    "options": [
+      "Symmetric",
+      "Algorithmic",
+      "Hashing",
+      "Asymmetric"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 18,
+    "question": "Câu nào đúng về tính năng Restrict Editing trong Microsoft Word? (Chọn 2)\r\n&nbsp;",
+    "type": "multiple",
+    "options": [
+      "Định dạng có thể bị hạn chế đối với các kiểu cụ thể",
+      "Việc chỉnh sửa có thể bị hạn chế đối với các khu vực cụ thể của tài liệu",
+      "Toàn bộ tài liệu có thể được bảo vệ bằng mật khẩu",
+      "Các giới hạn áp dụng cho tất cả người dùng tài liệu"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 19,
+    "question": "Các bước người ta có thể làm để chống lại cảm giác FOMO là gì? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Đọc thêm tin tức",
+      "Trên mạng xã hội, ẩn những người khoe khoang nhiều",
+      "Gặp gỡ trực tiếp với mọi người",
+      "Dành nhiều thời gian hơn trên mạng xã hội"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 20,
+    "question": "Người dùng gặp một người trực tuyến đang cố gắng thiết lập mối quan hệ. Điều gì có thể xảy ra với người dùng?",
+    "type": "single",
+    "options": [
+      "Phishing",
+      "Baiting",
+      "Social engineering",
+      "Catfishing"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 21,
+    "question": "Trong trình duyệt Google Chrome, vô hiệu hóa quyền truy cập vào máy ảnh trên thiết bị hiện tại",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Chọn Tùy chỉnh và điều khiển dấu chấm lửng dọc của Google Chrome",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "text": "Chọn Settings",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "text": "Chọn biểu tượng On/Off cho Ask before accessing",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "text": "Chọn Site Settings",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "text": "Chọn Camera",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "text": "Chọn Privacy and security",
+        "choices": [
+          "6",
+          "5",
+          "2",
+          "3",
+          "1",
+          "4"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 22,
+    "question": "Kết quả cuối cùng của việc mã hóa văn bản là _____________.",
+    "type": "single",
+    "options": [
+      "xáo trộn",
+      "văn bản thô",
+      "bản mã",
+      "băm văn bản"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 23,
+    "question": "Những phát biểu nào là đúng về công thái học phù hợp khi sử dụng bàn phím? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Bàn chân phải phẳng trên sàn",
+      "Mắt phải nhìn các ngón tay khi gõ phím",
+      "Màn hình phải cách hai cánh tay",
+      "Các ngón tay nên hơi cong"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 24,
+    "question": "Bạn cần bảo vệ sự riêng tư và bảo mật của mình một cách thích hợp. Bạn nên tắt camera trên thiết bị trực tuyến của mình trong hai trường hợp nào? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Khi trao đổi tin nhắn với người thân ở xa",
+      "Khi trò chuyện với những người chơi khác trong phiên chơi trò chơi trực tuyến công khai",
+      "Khi tham gia một buổi học của lớp đào tạo từ xa",
+      "Khi xem chuyến tham quan đại học ảo với hàng trăm người tham gia"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 25,
+    "question": "Với mỗi câu phát biểu về mã hóa tập tin, hãy chọn Đúng hoặc Sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Tất cả các tập tin trong bộ nhớ đám mây được mã hóa mặc định",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Bạn chỉ có thể mở tập tin được mã hóa trên máy tính đã mã hóa tập tin đó",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Mã hóa tập tin làm giảm tốc độ truy cập tập tin",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 26,
+    "question": "Người dùng cố gắng mã hóa một thư mục trong Windows, nhưng tính năng mã hóa không khả dụng. Lý do thiếu tính năng này là gì?",
+    "type": "single",
+    "options": [
+      "Ổ đĩa đã được mã hóa",
+      "Thư mục có định dạng NTFS",
+      "Người dùng có phiên bản Windows 10 Home",
+      "Thư mục có định dạng FAT32"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 27,
+    "question": "Một người hàng xóm trong độ tuổi thiếu niên tạo tài khoản mạng xã hội, qua đó cô ấy đóng giả là một người đàn ông 40 tuổi. Hồ sơ tài khoản chứa ảnh của một người đàn ông mà cô tìm thấy trên mạng. Thông qua tài khoản này, cô kết nối với những người hàng xóm khác và với phụ huynh của học sinh tại trường của mình, sau đó bảo trợ cho một cuộc gây quỹ trực tuyến vì lợi ích của chính cô. Cô hàng xóm của bạn đang làm gì?",
+    "type": "single",
+    "options": [
+      "Tấn công mạng (Cyberhacking)",
+      "Trêu đùa (Trolling)",
+      "Tấn công giả mạo (Phishing)",
+      "Lừa đảo công nghệ cao (Catfishing)"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 28,
+    "question": "Với mỗi câu phát biểu về tính bảo mật của webcam, hãy chọn Đúng hoặc Sai",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Tắt webcam trong cài đặt máy tính của bạn sẽ bảo vệ bạn khỏi nguy cơ truy cập trái phép.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Mọi người nên che webcam của mình khi không sử dụng.&nbsp;",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Tất cả các webcam đều có đèn ghi mà không thể tắt được thông qua phần mềm.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 29,
+    "question": "Thanh toán kỹ thuật số hoạt động như thế nào?",
+    "type": "single",
+    "options": [
+      "Thanh toán kỹ thuật số yêu cầu liên kết với tài khoản ngân hàng hoặc thẻ tín dụng.",
+      "Thanh toán kỹ thuật số yêu cầu người đồng ký.",
+      "Thanh toán kỹ thuật số giống như một I.O.U.",
+      "Thanh toán kỹ thuật số tương tự như séc điện tử."
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 30,
+    "question": "Giữa công việc ở trường, chơi game và mạng xã hội, bạn dành 4-6 giờ mỗi ngày để sử dụng máy tính xách tay và đăng bài trên mạng xã hội từ điện thoại của mình. Bạn lo ngại về nguy cơ sức khỏe. Đối với mỗi phát biểu về rủi ro sức khỏe khi sử dụng công nghệ kỹ thuật số, hãy chọn Đúng nếu đó là tuyên bố đúng hoặc Sai nếu phát biểu đó là sai.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Để tránh nghiện mạng xã hội, bạn nên nghỉ ngơi khi duyệt 3-5 trang mạng xã",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Để chống lại tình trạng lười vận động, hãy mua một chiếc đồng hồ thể dục để đeo đến trường.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Để giúp tránh rối loạn giấc ngủ, trước khi đi ngủ, hay sạc điện thoại ở nơi bạn không thể tiếp cận nhưng vẫn có thể nghe thấy.",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      },
+      {
+        "text": "Để tránh mỏi mắt, bạn nên chớp mắt thường xuyên theo quy tắc \"20-20-20\".",
+        "choices": [
+          "Đúng",
+          "Sai"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 31,
+    "question": "Giải thích những nguy cơ tiềm ẩn và hậu quả của các bài đăng trên phương tiện truyền thông tiêu cực (Negative Media Posts). Đối với mỗi phát biểu về các bài đăng tiêu cực trên mạng xã hội, hãy chọn Đúng nếu đó là mối nguy hiểm hoặc Sai nếu không.",
+    "type": "matching",
+    "options": [
+      {
+        "text": "Nếu bạn thực hiện quá nhiều bài đăng trên phương tiện truyền thông tiêu cực, nhà cung cấp dịch vụ điện thoại sẽ đóng tài khoản của bạn.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Hướng các bài đăng tiêu cực đến một cá nhân có thể bị coi là đe dọa trực tuyến",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      },
+      {
+        "text": "Đọc các bài đăng tiêu cực trên mạng xã hội có thể gây ra trầm cảm và khiến lòng tự trọng thấp.",
+        "choices": [
+          "Sai",
+          "Đúng"
+        ]
+      }
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  },
+  {
+    "id": 32,
+    "question": "Đâu là hai ảnh hưởng của hội chứng FOMO (sợ bỏ lỡ)? (Chọn 2)",
+    "type": "multiple",
+    "options": [
+      "Suy giảm lòng tự trọng&nbsp;",
+      "Tăng cường sử dụng mạng xã hội",
+      "Suy giảm động lực",
+      "Tăng tính khiêm tốn"
+    ],
+    "correctAnswers": [],
+    "explanation": "Chưa có giải thích cho câu hỏi này."
+  }
+]
