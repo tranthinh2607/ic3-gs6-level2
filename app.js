@@ -38,8 +38,16 @@ function startQuizMode(mode) {
 
 function generateFinalExam() {
     let allQuestions = [];
+    let seenQuestions = new Set();
+    
     quizSets.forEach(t => {
-        allQuestions = allQuestions.concat(t.questions);
+        t.questions.forEach(q => {
+            let normalizedText = q.question.trim().toLowerCase();
+            if (!seenQuestions.has(normalizedText)) {
+                seenQuestions.add(normalizedText);
+                allQuestions.push(q);
+            }
+        });
     });
     
     // Shuffle all questions
@@ -210,7 +218,7 @@ function initQuiz() {
     // Shuffle logic
     let orderStr = localStorage.getItem(`order_${currentTestId}`);
     if (!orderStr) {
-        let order = currentTest.questions.map(q => q.id);
+        let order = currentTest.questions.map((q, idx) => idx);
         for (let i = order.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [order[i], order[j]] = [order[j], order[i]];
@@ -221,8 +229,8 @@ function initQuiz() {
 
     let order = JSON.parse(orderStr);
     let shuffledQuestions = [];
-    order.forEach(id => {
-        let q = currentTest.questions.find(q => q.id === id);
+    order.forEach(idx => {
+        let q = currentTest.questions[idx];
         if(q) shuffledQuestions.push(q);
     });
     if (shuffledQuestions.length === currentTest.questions.length) {
@@ -417,8 +425,8 @@ function renderResult() {
     if (orderStr) {
         let order = JSON.parse(orderStr);
         let shuffledQuestions = [];
-        order.forEach(id => {
-            let q = currentTest.questions.find(q => q.id === id);
+        order.forEach(idx => {
+            let q = currentTest.questions[idx];
             if(q) shuffledQuestions.push(q);
         });
         if (shuffledQuestions.length === currentTest.questions.length) {
@@ -519,8 +527,8 @@ function renderReview() {
     if (orderStr) {
         let order = JSON.parse(orderStr);
         let shuffledQuestions = [];
-        order.forEach(id => {
-            let q = currentTest.questions.find(q => q.id === id);
+        order.forEach(idx => {
+            let q = currentTest.questions[idx];
             if(q) shuffledQuestions.push(q);
         });
         if (shuffledQuestions.length === currentTest.questions.length) {
