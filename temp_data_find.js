@@ -1,4 +1,4 @@
-const quizSets = [
+module.exports = [
   {
     "id": "c1-t1",
     "title": "Chủ đề 1 - Bài Test 1",
@@ -823,12 +823,7 @@ const quizSets = [
             ]
           }
         ],
-        "correctAnswers": {
-          "0": "Sai",
-          "1": "Đúng",
-          "2": "Sai",
-          "3": "Đúng"
-        },
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {
@@ -1052,9 +1047,7 @@ const quizSets = [
           "Định cấu hình lại cả hai tài khoản Microsoft để sử dụng cùng một ID và mật khẩu đăng nhập.",
           "Thiết lập tài khoản Google được chia sẻ cho cả hai tài khoản Microsoft."
         ],
-        "correctAnswers": [
-          "Chuyển từ tài khoản Microsoft gia đình của bạn sang tài khoản Microsoft chơi game của bạn"
-        ],
+        "correctAnswers": [],
         "explanation": "Cùng một căn nhà nhưng em có nhiều chùm chìa khóa cho các căn phòng khác nhau (phòng gia đình, phòng game). Món đồ em cần tìm đang cất ở phòng game, nên em phải cất chìa khóa gia đình đi và lấy đúng chìa khóa phòng game ra mở cửa (chuyển đổi tài khoản) thì mới nhìn thấy đồ."
       },
       {
@@ -1082,9 +1075,7 @@ const quizSets = [
           "Ngắt kết nối cáp với tất cả các máy in khác.",
           "Xóa các máy in khác khỏi hàng đợi in của hệ điều hành của bạn."
         ],
-        "correctAnswers": [
-          "Đặt máy in yêu thích làm Mặc định."
-        ],
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {
@@ -1438,10 +1429,7 @@ const quizSets = [
           "áp phích.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; bản sao áp phích.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ban sao áp phích 2.psd&nbsp; &nbsp; &nbsp;",
           "áp phích của tôi.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; áp phích mới.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; áp phích.psd&nbsp;"
         ],
-        "correctAnswers": [
-          "áp phích_bản nháp1.psd&nbsp; &nbsp; &nbsp; &nbsp;áp phích_bản nhap2.psd&nbsp; &nbsp; &nbsp; &nbsp;áp phích_BẢN CUỐI.psd",
-          "áp phích_bản gốc.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; áp phích_đã cắt.psd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; áp phích_thước xám.psd"
-        ],
+        "correctAnswers": [],
         "explanation": "Khi em vẽ một bức tranh và muốn sửa đi sửa lại nhiều lần, em nên đánh số hoặc đặt tên thật rõ ràng như \"bản nháp 1\", \"bản nháp 2\", \"bản cuối\" để không bị nhầm. Cứ như việc em dán nhãn cho từng ngăn kéo đồ chơi vậy, lúc cần tìm \"bản mới nhất\" sẽ cực kỳ dễ dàng và không bao giờ bị lấy nhầm \"bản cũ\"."
       },
       {
@@ -2517,12 +2505,7 @@ const quizSets = [
             ]
           }
         ],
-        "correctAnswers": {
-          "0": "Đúng",
-          "1": "Đúng",
-          "2": "Sai",
-          "3": "Đúng"
-        },
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {
@@ -2594,15 +2577,8 @@ const quizSets = [
         "id": 1,
         "question": "Bạn đang viết báo cáo về Chiến tranh năm 1812. Bạn tìm kiếm những bài báo về cuộc chiến tranh này trên mạng. Bạn cần lọc kết quả để chỉ hiển thị những bài báo được xuất bản trong năm vừa qua. Bạn có thể chọn nút nào để đạt được mục tiêu nói trên?",
         "type": "single",
-        "options": [
-          "Công cụ (Tools)",
-          "Cài đặt (Settings)",
-          "Tìm kiếm nâng cao (Advanced Search)",
-          "Thêm (More)"
-        ],
-        "correctAnswers": [
-          "Công cụ (Tools)"
-        ],
+        "options": [],
+        "correctAnswers": [],
         "explanation": "Để tìm thông tin mới xuất bản trong 1 năm gần đây, em bấm vào nút Công cụ (Tools) trên Google, sau đó chọn khoảng thời gian là Năm qua (Past year) nhé.",
         "images": [
           "IC3.LEVEL2.CHUDE3.TEST5.cau 1.png"
@@ -2787,15 +2763,8 @@ const quizSets = [
         "id": 8,
         "question": "Bạn đang chuẩn bị một bản trình chiếu kỹ thuật số để kiếm tiền cho câu lạc bộ của mình. Bạn tìm kiếm một bài hát trên mạng để phối lại và thêm vào bài thuyết trình của mình. Tùy chọn nào sau đây là giấy phép Creative Commons cho phép bạn phối lại bài hát cho bản trình bày của mình?",
         "type": "single",
-        "options": [
-          "Attribution-ShareAlike (CC BY-SA)",
-          "Attribution-NoDerivs (CC BY-ND)",
-          "Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)",
-          "Bất kỳ giấy phép Creative Commons nào"
-        ],
-        "correctAnswers": [
-          "Attribution-ShareAlike (CC BY-SA)"
-        ],
+        "options": [],
+        "correctAnswers": [],
         "explanation": "Khi nhìn thấy các ký hiệu của giấy phép Creative Commons, em cần tránh chọn những bài hát có chữ 'ND' (No Derivatives), vì ký hiệu đó cấm em phối lại (remix) hoặc cắt ghép thay đổi bài hát gốc nhé."
       },
       {
@@ -2850,9 +2819,7 @@ const quizSets = [
           "Blog cá nhân",
           "Trang Wiki"
         ],
-        "correctAnswers": [
-          "Tạp chí học thuật"
-        ],
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {
@@ -4094,12 +4061,7 @@ const quizSets = [
             ]
           }
         ],
-        "correctAnswers": {
-          "0": "Có",
-          "1": "Có",
-          "2": "Không",
-          "3": "Không"
-        },
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {
@@ -7502,11 +7464,7 @@ const quizSets = [
             ]
           }
         ],
-        "correctAnswers": {
-          "0": "Đúng",
-          "1": "Sai",
-          "2": "Đúng"
-        },
+        "correctAnswers": [],
         "explanation": "Chưa có giải thích cho câu hỏi này."
       },
       {

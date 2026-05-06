@@ -1,4 +1,4 @@
-const quizSets = [
+module.exports = [
   {
     "id": "c1-t1",
     "title": "Chủ đề 1 - Bài Test 1",
