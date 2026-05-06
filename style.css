@@ -701,3 +701,6 @@ body {
         flex-direction: column;
     }
 }
+
+.review-item.correct { background-color: #f0fdf4; }
+.review-item.incorrect { background-color: #ffb3b3; }

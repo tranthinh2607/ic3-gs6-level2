@@ -91,6 +91,13 @@ let currentQuestionIndex = 0;
 let userAnswers = [];
 let totalCoins = parseInt(localStorage.getItem('totalCoins') || '0');
 
+function decodeHtml(html) {
+    if (!html) return '';
+    const txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+}
+
 // Audio setup
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 function playTing() {
@@ -463,8 +470,9 @@ function renderResult() {
             if (uAns && typeof uAns === 'object') {
                 let allMatch = true;
                 q.options.forEach((opt, idx) => {
-                    // Assuming cAns is an object/array mapping
-                    if (uAns[idx] !== cAns[idx]) {
+                    const expected = cAns[idx] ? decodeHtml(cAns[idx]) : '';
+                    const actual = uAns[idx] ? decodeHtml(uAns[idx]) : '';
+                    if (actual !== expected) {
                         allMatch = false;
                     }
                 });
@@ -547,30 +555,63 @@ function renderReview() {
 
     currentTest.questions.forEach((q, i) => {
         const uAns = userAnswers[i];
+        const cAns = q.correctAnswers;
         let uAnsText = 'Chưa trả lời';
-        let isCorrectClass = ''; // 'correct' or 'incorrect'
+        let isCorrectClass = ''; 
+        let isCorrect = false;
+        
+        // Evaluate correctness
+        if (cAns) {
+            if (q.type === 'single' || q.type === 'multiple') {
+                if (uAns && Array.isArray(uAns)) {
+                    if (uAns.length === cAns.length && uAns.every(val => cAns.some(c => decodeHtml(c) === decodeHtml(val)))) {
+                        isCorrect = true;
+                    }
+                }
+            } else if (q.type === 'matching') {
+                if (uAns && typeof uAns === 'object') {
+                    let allMatch = true;
+                    q.options.forEach((opt, idx) => {
+                        const expected = cAns[idx] ? decodeHtml(cAns[idx]) : '';
+                        const actual = uAns[idx] ? decodeHtml(uAns[idx]) : '';
+                        if (actual !== expected) {
+                            allMatch = false;
+                        }
+                    });
+                    if (allMatch && Object.keys(uAns).length === Object.keys(cAns).length) isCorrect = true;
+                }
+            }
+            
+            const hasAnswers = Array.isArray(cAns) ? cAns.length > 0 : Object.keys(cAns).length > 0;
+            if (hasAnswers) {
+                isCorrectClass = isCorrect ? 'correct' : 'incorrect';
+            }
+        }
         
         if (q.type === 'single' || q.type === 'multiple') {
             if (uAns && Array.isArray(uAns) && uAns.length > 0) {
-                uAnsText = uAns.join(', ');
+                uAnsText = uAns.map(decodeHtml).join('<br>');
             }
         } else if (q.type === 'matching') {
              if (uAns && Object.keys(uAns).length > 0) {
                  const pairs = [];
                  q.options.forEach((opt, idx) => {
-                     pairs.push(`<strong>${opt.text}</strong> ➔ ${uAns[idx] || 'Chưa chọn'}`);
+                     pairs.push(`<strong>${opt.text}</strong> ➔ ${decodeHtml(uAns[idx]) || 'Chưa chọn'}`);
                  });
                  uAnsText = pairs.join('<br>');
              }
         }
 
         let cAnsText = 'Chưa có dữ liệu đáp án đúng';
-        if (q.correctAnswers && q.correctAnswers.length > 0) {
-             if (q.type === 'matching') {
-                  // If matching has answers
-                  cAnsText = JSON.stringify(q.correctAnswers);
-             } else {
-                  cAnsText = q.correctAnswers.join(', ');
+        if (q.correctAnswers) {
+             if (q.type === 'matching' && Object.keys(q.correctAnswers).length > 0) {
+                  const pairs = [];
+                  q.options.forEach((opt, idx) => {
+                      pairs.push(`<strong>${opt.text}</strong> ➔ ${decodeHtml(q.correctAnswers[idx]) || 'Chưa có'}`);
+                  });
+                  cAnsText = pairs.join('<br>');
+             } else if (Array.isArray(q.correctAnswers) && q.correctAnswers.length > 0) {
+                  cAnsText = q.correctAnswers.map(decodeHtml).join('<br>');
              }
         }
 
